@@ -12,9 +12,9 @@ DOCING/
 ├── output_quytrinh/      # Kết quả JSON từ các file DOCX quy trình
 ├── utils/                # Các module python hỗ trợ
     ├── __init__.py
-├── convert_doc.py    # Chuyển DOCX sang JSON
-├── convert_pdf.py    # Pipeline chuyển PDF sang DOCX rồi sang JSON
-├── pdf.py            # Các hàm hỗ trợ xử lý bảng
+├── convert_doc.py        # Chuyển DOCX sang JSON
+├── convert_pdf.py        # Pipeline chuyển PDF sang DOCX rồi sang JSON
+├── pdf.py                # Các hàm hỗ trợ xử lý bảng
 ├── main.py               # File chính để chạy ứng dụng 
 ├── requirements.txt      # Thư viện cần thiết để chạy dự án
 └── temp_converted.docx   # File tạm khi chuyển PDF sang DOCX
