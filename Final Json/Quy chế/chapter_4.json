@@ -1,0 +1,328 @@
+{
+  "chapter": "CHƯƠNG 4. TỔ CHỨC THỰC HIỆN",
+  "content": [
+    "Điều 58. Tổ chức thực hiện",
+    "Quy chế này có hiệu lực áp dụng từ 01/01/2024 và thay thế các quy định về chi tiêu tài chính áp dụng tại Trường ĐHCN trái với quy định tại quy chế này.",
+    "Trong quá trình thực hiện, Quy chế này sẽ được sửa đổi, bổ sung và cập nhật cho phù hợp với các quy định cập nhật của Nhà nước, Bộ Giáo dục & Đào tạo, Đại học Quốc gia Hà Nội và tình hình thực tiễn trong thực hiện nhiệm vụ; phù hợp với nguồn lực tài chính của Nhà trường ./.",
+    "Phụ lục",
+    "ĐỊNH MỨC CÁC KHOẢN CHI PHÚC LỢI",
+    "Các trường hợp đặc biệt Hiệu trưởng quyết định trên cơ sở đề nghị của Chủ tịch Công đoàn trường.",
+    "Ghi chú:",
+    "Đối tượng 1",
+    "bao gồm:",
+    "Cán bộ đã qua tuyển dụng (cán bộ trong biên chế, cán bộ hợp đồng làm việc),",
+    "Cán bộ chưa qua tuyển dụng được ký HĐLĐ (loại HĐ có thời hạn một năm trở lên, do nhà trường đóng bảo hiểm) và đã có thời gian làm việc từ 1 năm trở lên.",
+    "Đối tượng 2:",
+    "Cán bộ chưa qua tuyển dụng ký HĐLĐ có thời hạn một năm trở lên, do nhà trường đóng bảo hiểm, thời gian làm việc tại trường chưa đủ một năm.",
+    "Đối tượng 3:",
+    "Những trường hợp còn lại: bảo vệ, nhân viên trực giảng, ..."
+  ],
+  "tables": [
+    {
+      "title": "Bảng chi phúc lợi",
+      "data": [
+        {
+          "STT": "STT",
+          "Nội dung chi": "Nội dung chi",
+          "Đối tượng 1": "Đối tượng 1",
+          "Đối tượng 2": "Đối tượng 2",
+          "Đối tượng 3": "Đối tượng 3"
+        },
+        {
+          "STT": "1",
+          "Nội dung chi": "Tết dương lịch (CBVC, LĐHĐ đang làm việc thực tế tại thời điểm tết dương lịch) - CBVC, LĐHĐ có thời gian làm việc thực tế từ đủ 6 tháng trở lên",
+          "Đối tượng 1": "1.500.000 đồng/người",
+          "Đối tượng 2": "800.000 đồng/người",
+          "Đối tượng 3": "500.000 đồng/người"
+        },
+        {
+          "STT": "1",
+          "Nội dung chi": "Tết dương lịch (CBVC, LĐHĐ đang làm việc thực tế tại thời điểm tết dương lịch) - CBVC, LĐHĐ có thời gian làm việc thực tế dưới 6 tháng",
+          "Đối tượng 1": "800.000 đồng/người",
+          "Đối tượng 2": "500.000 đồng/người",
+          "Đối tượng 3": ""
+        },
+        {
+          "STT": "2",
+          "Nội dung chi": "Tết âm lịch (Được hưởng theo thời gian làm việc thực tế từ ngày 1/2 năm trước đến 31/1 năm sau) - CBVC, LĐHĐ có thời gian làm việc tại Trường trên 6 tháng",
+          "Đối tượng 1": "3.000.000 đồng/người",
+          "Đối tượng 2": "2.000.000 đồng/người",
+          "Đối tượng 3": "1.000.000 đồng/người"
+        },
+        {
+          "STT": "2",
+          "Nội dung chi": "Tết âm lịch - CBVC, LĐHĐ có thời gian làm việc thực tế dưới 6 tháng",
+          "Đối tượng 1": "2.000.000 đồng/người",
+          "Đối tượng 2": "1.200.000 đồng/người",
+          "Đối tượng 3": "500.000 đồng/người"
+        },
+        {
+          "STT": "2",
+          "Nội dung chi": "Tết âm lịch - LĐHĐ có xác định thời hạn có đóng BHXH dưới 1 năm",
+          "Đối tượng 1": "2.000.000 đồng/người",
+          "Đối tượng 2": "",
+          "Đối tượng 3": ""
+        },
+        {
+          "STT": "2",
+          "Nội dung chi": "Tết âm lịch - Cán bộ nghỉ hưu, cán bộ biệt phái",
+          "Đối tượng 1": "500.000 đồng/người",
+          "Đối tượng 2": "",
+          "Đối tượng 3": ""
+        },
+        {
+          "STT": "3",
+          "Nội dung chi": "Kỷ niệm ngày 8/3 và 20/10 - Quà tặng chị em phụ nữ",
+          "Đối tượng 1": "500.000 đồng/người",
+          "Đối tượng 2": "",
+          "Đối tượng 3": ""
+        },
+        {
+          "STT": "3",
+          "Nội dung chi": "Kỷ niệm ngày 8/3 và 20/10 - Tổ chức Lễ chúc mừng của Công đoàn Trường",
+          "Đối tượng 1": "Theo dự toán được duyệt",
+          "Đối tượng 2": "",
+          "Đối tượng 3": ""
+        },
+        {
+          "STT": "4",
+          "Nội dung chi": "Chi quà ngày Lễ giỗ tổ Hùng Vương - CBVC, LĐHĐ làm việc tại trường",
+          "Đối tượng 1": "600.000 đồng/người",
+          "Đối tượng 2": "450.000 đồng/người",
+          "Đối tượng 3": "300.000 đồng/người"
+        },
+        {
+          "STT": "5",
+          "Nội dung chi": "Quà kỷ niệm 30/4 và 1/5 (Được hưởng theo thời gian làm việc thực tế từ 1/5 năm trước đến 30/4 năm sau) - CBVC, LĐHĐ",
+          "Đối tượng 1": "600.000 đồng/người",
+          "Đối tượng 2": "450.000 đồng/người",
+          "Đối tượng 3": "300.000 đồng/người"
+        },
+        {
+          "STT": "5",
+          "Nội dung chi": "Quà kỷ niệm 30/4 và 1/5 - LĐHĐ có xác định thời hạn có đóng BHXH dưới 1 năm",
+          "Đối tượng 1": "300.000 đồng/người",
+          "Đối tượng 2": "",
+          "Đối tượng 3": ""
+        },
+        {
+          "STT": "6",
+          "Nội dung chi": "Kỷ niệm ngày thành lập trường (25/5)",
+          "Đối tượng 1": "600.000 đồng/người",
+          "Đối tượng 2": "450.000 đồng/người",
+          "Đối tượng 3": "300.000 đồng/người"
+        },
+        {
+          "STT": "7",
+          "Nội dung chi": "Quà ngày 1/6 cho các cháu thiếu nhi - Quà tặng cho các cháu thiếu nhi (dưới 15 tuổi hoặc đang học THCS trở xuống) là con CBVC, LĐHĐ có đóng BHXH",
+          "Đối tượng 1": "200.000 đồng/cháu",
+          "Đối tượng 2": "",
+          "Đối tượng 3": ""
+        },
+        {
+          "STT": "7",
+          "Nội dung chi": "Quà ngày 1/6 cho các cháu thiếu nhi - Tổ chức Lễ kỷ niệm của Công đoàn Trường",
+          "Đối tượng 1": "Theo dự toán được duyệt",
+          "Đối tượng 2": "",
+          "Đối tượng 3": ""
+        },
+        {
+          "STT": "8",
+          "Nội dung chi": "Tổ chức nghỉ hè - Bồi dưỡng nghỉ hè - CBVC, LĐHĐ có thời gian làm việc thực tế đủ 6 tháng trở lên",
+          "Đối tượng 1": "2.000.000 đồng/người",
+          "Đối tượng 2": "1.200.000 đồng/người",
+          "Đối tượng 3": "1.000.000 đồng/người"
+        },
+        {
+          "STT": "8",
+          "Nội dung chi": "Tổ chức nghỉ hè - Bồi dưỡng nghỉ hè - CBVC, LĐHĐ có thời gian làm việc thực tế dưới 6 tháng",
+          "Đối tượng 1": "500.000 đồng/người",
+          "Đối tượng 2": "",
+          "Đối tượng 3": ""
+        },
+        {
+          "STT": "8",
+          "Nội dung chi": "Tổ chức nghỉ hè - Hỗ trợ CBVC tham gia nghỉ hè (đối với CĐV tham gia kỳ nghỉ do Công đoàn Trường tổ chức) - CBVC, LĐHĐ làm việc thực tế tại Trường",
+          "Đối tượng 1": "2.000.000 đồng/người",
+          "Đối tượng 2": "1.200.000 đồng/người",
+          "Đối tượng 3": "1.000.000 đồng/người"
+        },
+        {
+          "STT": "9",
+          "Nội dung chi": "Tổ chức Tết trung thu - Quà tặng cho các cháu thiếu nhi (dưới 15 tuổi hoặc đang học THCS trở xuống) là con CCVC, LĐHĐ có đóng BHXH",
+          "Đối tượng 1": "200.000 đồng/cháu",
+          "Đối tượng 2": "",
+          "Đối tượng 3": ""
+        },
+        {
+          "STT": "9",
+          "Nội dung chi": "Tổ chức Tết trung thu - Tổ chức Tết trung thu của Công đoàn Trường",
+          "Đối tượng 1": "Theo dự toán được duyệt",
+          "Đối tượng 2": "",
+          "Đối tượng 3": ""
+        },
+        {
+          "STT": "10",
+          "Nội dung chi": "Quà nhân ngày Quốc khánh 2/9 (CBVC, LĐHĐ làm việc thực tế tại thời điểm 02/9) - CBVC, LĐHĐ",
+          "Đối tượng 1": "600.000 đồng/người",
+          "Đối tượng 2": "450.000 đồng/người",
+          "Đối tượng 3": "300.000 đồng/người"
+        },
+        {
+          "STT": "11",
+          "Nội dung chi": "Kỷ niệm ngày truyền thống (18/10) (CBVC, LĐHĐ làm việc thực tế tại thời điểm 02/9)",
+          "Đối tượng 1": "600.000 đồng/người",
+          "Đối tượng 2": "450.000 đồng/người",
+          "Đối tượng 3": "300.000 đồng/người"
+        },
+        {
+          "STT": "12",
+          "Nội dung chi": "Tổ chức kỷ niệm ngày Nhà giáo Việt nam 20/11 - Quà tặng cho tất cả CBVC, LĐHĐ",
+          "Đối tượng 1": "2.000.000 đồng/người",
+          "Đối tượng 2": "1.000.000 đồng/người",
+          "Đối tượng 3": "500.000 đồng/người"
+        },
+        {
+          "STT": "12",
+          "Nội dung chi": "Tổ chức kỷ niệm ngày Nhà giáo Việt nam 20/11 - Cựu giáo chức",
+          "Đối tượng 1": "500.000 đồng/người",
+          "Đối tượng 2": "",
+          "Đối tượng 3": ""
+        },
+        {
+          "STT": "12",
+          "Nội dung chi": "Tổ chức kỷ niệm ngày Nhà giáo Việt nam 20/11 - Chi tổ chức gặp mặt",
+          "Đối tượng 1": "Theo dự toán được duyệt",
+          "Đối tượng 2": "",
+          "Đối tượng 3": ""
+        },
+        {
+          "STT": "13",
+          "Nội dung chi": "Chi khuyến khích các cháu là con CBVC, LĐHĐ có đóng BHXH có thành tích trong học tập - Học sinh xuất sắc",
+          "Đối tượng 1": "300.000 đồng/cháu/năm",
+          "Đối tượng 2": "",
+          "Đối tượng 3": ""
+        },
+        {
+          "STT": "13",
+          "Nội dung chi": "Chi khuyến khích các cháu là con CBVC, LĐHĐ có đóng BHXH có thành tích trong học tập - Học sinh giỏi/Học sinh tiêu biểu",
+          "Đối tượng 1": "200.000 đồng/cháu/năm",
+          "Đối tượng 2": "",
+          "Đối tượng 3": ""
+        },
+        {
+          "STT": "13",
+          "Nội dung chi": "Chi khuyến khích các cháu là con CBVC, LĐHĐ có đóng BHXH có thành tích trong học tập - Học sinh đạt giải kỳ thi cấp quận",
+          "Đối tượng 1": "500.000 đồng/cháu/giải",
+          "Đối tượng 2": "",
+          "Đối tượng 3": ""
+        },
+        {
+          "STT": "13",
+          "Nội dung chi": "Chi khuyến khích các cháu là con CBVC, LĐHĐ có đóng BHXH có thành tích trong học tập - Học sinh giỏi cấp thành phố/ Học sinh đạt giải Olympic cấp thành phố",
+          "Đối tượng 1": "1.000.000 đồng/cháu/giải",
+          "Đối tượng 2": "",
+          "Đối tượng 3": ""
+        },
+        {
+          "STT": "13",
+          "Nội dung chi": "Chi khuyến khích các cháu là con CBVC, LĐHĐ có đóng BHXH có thành tích trong học tập - Học sinh đạt giải Học sinh giỏi cấp ĐHQGHN/ Đạt giải Olympic cấp ĐHQGHN",
+          "Đối tượng 1": "1.500.000 đồng/cháu/giải",
+          "Đối tượng 2": "",
+          "Đối tượng 3": ""
+        },
+        {
+          "STT": "13",
+          "Nội dung chi": "Chi khuyến khích các cháu là con CBVC, LĐHĐ có đóng BHXH có thành tích trong học tập - Học sinh giỏi cấp quốc gia",
+          "Đối tượng 1": "2.000.000 đồng/cháu/giải",
+          "Đối tượng 2": "",
+          "Đối tượng 3": ""
+        },
+        {
+          "STT": "13",
+          "Nội dung chi": "Chi khuyến khích các cháu là con CBVC, LĐHĐ có đóng BHXH có thành tích trong học tập - Học sinh đạt giải Olympic quốc gia, đạt giải quốc tế",
+          "Đối tượng 1": "3.000.000 đồng/cháu/giải",
+          "Đối tượng 2": "",
+          "Đối tượng 3": ""
+        },
+        {
+          "STT": "14",
+          "Nội dung chi": "Ăn trưa hàng tháng cho tất cả CBVC, LĐHĐ",
+          "Đối tượng 1": "730.000 đồng/người",
+          "Đối tượng 2": "",
+          "Đối tượng 3": ""
+        },
+        {
+          "STT": "14",
+          "Nội dung chi": "Hỗ trợ bếp ăn, dụng cụ",
+          "Đối tượng 1": "14.000.000 đồng/tháng",
+          "Đối tượng 2": "",
+          "Đối tượng 3": ""
+        },
+        {
+          "STT": "15.1",
+          "Nội dung chi": "Thăm cán bộ ốm đau, phải nằm viện - CBVC, LĐHĐ đang làm việc tại Trường",
+          "Đối tượng 1": "1.000.000 đồng/người",
+          "Đối tượng 2": "500.000 đồng/người",
+          "Đối tượng 3": "300.000 đồng/người"
+        },
+        {
+          "STT": "15.1",
+          "Nội dung chi": "Thăm cán bộ ốm đau, phải nằm viện - Cán bộ nghỉ hưu",
+          "Đối tượng 1": "1.000.000 đồng/người",
+          "Đối tượng 2": "",
+          "Đối tượng 3": ""
+        },
+        {
+          "STT": "15.2",
+          "Nội dung chi": "Viếng đám tang - CBVC, LĐHĐ đang làm việc (tiền phúng điếu)",
+          "Đối tượng 1": "5.000.000 đồng/người",
+          "Đối tượng 2": "1.000.000 đồng/người",
+          "Đối tượng 3": "1.000.000 đồng/người"
+        },
+        {
+          "STT": "15.2",
+          "Nội dung chi": "Viếng đám tang - Cán bộ đã nghỉ hưu (tiền phúng điếu)",
+          "Đối tượng 1": "5.000.000 đồng/người",
+          "Đối tượng 2": "",
+          "Đối tượng 3": ""
+        },
+        {
+          "STT": "15.2",
+          "Nội dung chi": "Viếng đám tang - Vòng hoa (thanh toán theo mức khoán)",
+          "Đối tượng 1": "1.000.000 đồng/đám",
+          "Đối tượng 2": "500.000 đồng/đám",
+          "Đối tượng 3": "500.000 đồng/đám"
+        },
+        {
+          "STT": "15.3",
+          "Nội dung chi": "Mừng đám cưới CBVC, LĐHĐ",
+          "Đối tượng 1": "2.000.000 đồng/người",
+          "Đối tượng 2": "500.000 đồng/người",
+          "Đối tượng 3": "500.000 đồng/người"
+        },
+        {
+          "STT": "15.4",
+          "Nội dung chi": "Mừng công đoàn viên sinh con",
+          "Đối tượng 1": "1.000.000 đồng/người",
+          "Đối tượng 2": "500.000 đồng/người",
+          "Đối tượng 3": ""
+        },
+        {
+          "STT": "16",
+          "Nội dung chi": "Thăm hỏi tứ thân phụ mẫu, vợ, chồng, con ruột của CBVC, LĐHĐ ốm nằm viện (chi từ KPCĐ, trường hợp KPCĐ không đủ chi, Quỹ phúc lợi hỗ trợ)",
+          "Đối tượng 1": "500.000 đồng/người",
+          "Đối tượng 2": "300.000 đồng/người",
+          "Đối tượng 3": ""
+        },
+        {
+          "STT": "17",
+          "Nội dung chi": "Viếng tứ thân phụ mẫu, vợ, chồng, con ruột CBVC, LĐHĐ (chi từ KPCĐ, trường hợp KPCĐ không đủ chi, Quỹ phúc lợi hỗ trợ)",
+          "Đối tượng 1": "1.000.000 đồng/người",
+          "Đối tượng 2": "500.000 đồng/người",
+          "Đối tượng 3": "300.000 đồng/người"
+        }
+      ]
+    }
+  ]
+}
