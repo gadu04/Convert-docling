@@ -1,0 +1,3668 @@
+{
+  "Documents": [
+    {
+      "id": "doc_cf0f0a05",
+      "Name": "22.4.2024 UET Quy che chi tieu noi bo TV",
+      "Number_of_Pages": null,
+      "Number_of_Chapter": 4
+    }
+  ],
+  "Chapters": [
+    {
+      "id": "chapter_d004a1c6",
+      "Name": "CHƯƠNG 1. NHỮNG QUY ĐỊNH CHUNG",
+      "Number": 1
+    },
+    {
+      "id": "chapter_0e91f49d",
+      "Name": "CHƯƠNG 2. QUY ĐỊNH CƠ CẤU PHÂN BỔ CÁC NGUỒN KINH PHÍ",
+      "Number": 2
+    },
+    {
+      "id": "chapter_adbbd53a",
+      "Name": "CHƯƠNG 3. QUY ĐỊNH CÁC KHOẢN CHI",
+      "Number": 3
+    },
+    {
+      "id": "chapter_75a91de6",
+      "Name": "CHƯƠNG 4. TỔ CHỨC THỰC HIỆN",
+      "Number": 4
+    }
+  ],
+  "Sections": [
+    {
+      "id": "section_d020fdca",
+      "Name": "Mục 1. Các khoản thu nhập chi cho cá nhân",
+      "Number": "1"
+    },
+    {
+      "id": "section_9159b57a",
+      "Name": "Mục 2. Chi hoạt động hành chính",
+      "Number": "2"
+    },
+    {
+      "id": "section_26216c7d",
+      "Name": "Mục 3. Hoạt động đào tạo, tuyển sinh, đảm bảo chất lượng",
+      "Number": "3"
+    },
+    {
+      "id": "section_26d9c8d7",
+      "Name": "Mục 4. Hoạt động khoa học và công nghệ",
+      "Number": "4"
+    },
+    {
+      "id": "section_58302d92",
+      "Name": "Mục 5. Tổ chức cán bộ, phát triển đội ngũ",
+      "Number": "5"
+    },
+    {
+      "id": "section_4ede8292",
+      "Name": "Mục 6. Các quỹ và các khoản chi khác",
+      "Number": "6"
+    }
+  ],
+  "Subsections": [],
+  "Articles": [
+    {
+      "id": "article_94b5a6e5",
+      "Name": "Điều 1. Mục đích",
+      "Number": "1"
+    },
+    {
+      "id": "article_ed7e3159",
+      "Name": "Điều 2. Những căn cứ để xây dựng",
+      "Number": "2"
+    },
+    {
+      "id": "article_d58d3a94",
+      "Name": "Điều 3. Nguyên tắc xây dựng",
+      "Number": "3"
+    },
+    {
+      "id": "article_c6a4f9bb",
+      "Name": "Điều 4. Phạm vi áp dụng",
+      "Number": "4"
+    },
+    {
+      "id": "article_23657af6",
+      "Name": "Điều 5. Nguồn thu học phí các chương trình đào tạo chính quy",
+      "Number": "5"
+    },
+    {
+      "id": "article_4b84f5b7",
+      "Name": "Điều 6. Nguồn kinh phí quản lý hoạt động KHCN",
+      "Number": "6"
+    },
+    {
+      "id": "article_18a7b0ff",
+      "Name": "Điều 7. Nguồn thu các từ các hoạt động khác",
+      "Number": "7"
+    },
+    {
+      "id": "article_0cc45eb4",
+      "Name": "Điều 8. Nguồn kinh phí quản lý đối với các đơn vị trực thuộc hạch toán độc lập",
+      "Number": "8"
+    },
+    {
+      "id": "article_4f31a0fa",
+      "Name": "Điều 9. Thu nhập của viên chức, người lao động",
+      "Number": "9"
+    },
+    {
+      "id": "article_c88a4954",
+      "Name": "Điều 10. Nguyên tắc chi trả thu nhập cho viên chức, người lao động",
+      "Number": "10"
+    },
+    {
+      "id": "article_3dac335b",
+      "Name": "Điều 11. Chi làm thêm giờ cán bộ hành chính, phục vụ",
+      "Number": "11"
+    },
+    {
+      "id": "article_240633d7",
+      "Name": "Điều 12. Chi trả thu nhập cho giảng viên, cán bộ kiêm nhiệm",
+      "Number": "12"
+    },
+    {
+      "id": "article_f3ca9cfb",
+      "Name": "Điều 13. Các khoản chi phí hỗ trợ khác",
+      "Number": "13"
+    },
+    {
+      "id": "article_1a36158e",
+      "Name": "Điều 14. Công tác phí trong nước",
+      "Number": "14"
+    },
+    {
+      "id": "article_7ba98392",
+      "Name": "Điều 15. Chế độ công tác phí nước ngoài, chế độ tiếp khách nước ngoài và hội thảo Quốc tế tại Việt Nam",
+      "Number": "15"
+    },
+    {
+      "id": "article_6cf05dff",
+      "Name": "Điều 16. Hội nghị, hội thảo trong nước",
+      "Number": "16"
+    },
+    {
+      "id": "article_c7441e48",
+      "Name": "Điều 17. Chi mua văn phòng phẩm",
+      "Number": "17"
+    },
+    {
+      "id": "article_2de74624",
+      "Name": "Điều 18. Thông tin liên lạc",
+      "Number": "18"
+    },
+    {
+      "id": "article_0ae38674",
+      "Name": "Điều 19. Quy định sử dụng xe ô tô",
+      "Number": "19"
+    },
+    {
+      "id": "article_4c6e18df",
+      "Name": "Điều 20. Chế độ tiếp khách trong nước",
+      "Number": "20"
+    },
+    {
+      "id": "article_21c5e2ca",
+      "Name": "Điều 21. Chi cho hoạt động quản trị website và truyền thông",
+      "Number": "21"
+    },
+    {
+      "id": "article_df3f987a",
+      "Name": "Điều 22. Hỗ trợ viên chức, người lao động tham gia nhiệm vụ tại Hòa Lạc",
+      "Number": "22"
+    },
+    {
+      "id": "article_c1c69653",
+      "Name": "Điều 23. Chi trả thù lao giảng dạy vượt giờ cho giảng viên",
+      "Number": "23"
+    },
+    {
+      "id": "article_5a0de03e",
+      "Name": "Điều 24. Chi trả thù lao quản lý vượt giờ của cán bộ quản lý, hành chính",
+      "Number": "24"
+    },
+    {
+      "id": "article_df9facda",
+      "Name": "Điều 25. Thù lao thực hiện hoạt động đào tạo chất lượng cao",
+      "Number": "25"
+    },
+    {
+      "id": "article_83b7157b",
+      "Name": "Điều 26. Thù lao hỗ trợ đối với lớp học phần có quy mô lớn, hỗ trợ giảng dạy ngoài giờ hành chính, cuối tuần và cố vấn học tập",
+      "Number": "26"
+    },
+    {
+      "id": "article_af64ed13",
+      "Name": "Điều 27. Chi tiền công mời giảng",
+      "Number": "27"
+    },
+    {
+      "id": "article_428a5e7d",
+      "Name": "Điều 28. Chi hướng dẫn khóa luận, đồ án, luận văn, luận án",
+      "Number": "28"
+    },
+    {
+      "id": "article_4d633ad8",
+      "Name": "Điều 29. Chi thù lao các hội đồng chuyên môn đào tạo",
+      "Number": "29"
+    },
+    {
+      "id": "article_c838b3ae",
+      "Name": "Điều 30. Chi xây dựng khung chương trình, đề cương chi tiết môn học, biên soạn giáo trình, bài giảng và các tài liệu khác",
+      "Number": "30"
+    },
+    {
+      "id": "article_a7f7a283",
+      "Name": "Điều 31. Chi thù lao coi thi, chấm thi",
+      "Number": "31"
+    },
+    {
+      "id": "article_12f00b4c",
+      "Name": "Điều 32. Chi hoạt động thực tập thực tế, các hoạt động hỗ trợ, khen thưởng sinh viên",
+      "Number": "32"
+    },
+    {
+      "id": "article_2417e9bf",
+      "Name": "Điều 33. Chi công tác tuyển sinh và truyền thông tuyển sinh",
+      "Number": "33"
+    },
+    {
+      "id": "article_3e07cbae",
+      "Name": "Điều 34. Thanh tra, kiểm tra, coi thi các kỳ thi cấp quốc gia",
+      "Number": "34"
+    },
+    {
+      "id": "article_9f4facc7",
+      "Name": "Điều 35. Chi công tác khảo sát và lấy ý kiến phản hồi của các bên liên quan",
+      "Number": "35"
+    },
+    {
+      "id": "article_fdcb0818",
+      "Name": "Điều 36. Chi cho các hoạt động đào tạo ngoài chỉ tiêu (học lại, học cải thiện điểm, kỳ hè,...)",
+      "Number": "36"
+    },
+    {
+      "id": "article_2b1988bf",
+      "Name": "Điều 37. Chi cho hoạt động của CTĐT Thạc sĩ hợp tác với Đại học Paris Saclay",
+      "Number": "37"
+    },
+    {
+      "id": "article_7d29709e",
+      "Name": "Điều 38. Chi trách nhiệm tổ chức thu và quản lý học phí",
+      "Number": "38"
+    },
+    {
+      "id": "article_dbe97737",
+      "Name": "Điều 39. Chi cho các hội đồng chuyên môn khoa học",
+      "Number": "39"
+    },
+    {
+      "id": "article_75d365f9",
+      "Name": "Điều 40. Hội nghị, hội thảo khoa học",
+      "Number": "40"
+    },
+    {
+      "id": "article_e641d3f6",
+      "Name": "Điều 41. Nghiên cứu khoa học sinh viên",
+      "Number": "41"
+    },
+    {
+      "id": "article_1ad7f2f1",
+      "Name": "Điều 42. Chi về đầu tư phát triển tiềm lực và khuyến khích hoạt động KHCN tại Trường ĐHCN",
+      "Number": "42"
+    },
+    {
+      "id": "article_187eec4d",
+      "Name": "Điều 43. Chi thực hiện nhiệm vụ khoa học công nghệ khi được cơ quan có thẩm quyền tuyển chọn hoặc giao trực tiếp theo quy định của pháp luật về KHCN",
+      "Number": "43"
+    },
+    {
+      "id": "article_8c149a1f",
+      "Name": "Điều 44. Quy định về việc sử dụng kinh phí tiết kiệm của nhiệm vụ KHCN",
+      "Number": "44"
+    },
+    {
+      "id": "article_f2064354",
+      "Name": "Điều 45. Chi kinh phí quản lý đề tài, dự án, đề án KHCN, hợp tác phát triển của Trường ĐHCN",
+      "Number": "45"
+    },
+    {
+      "id": "article_c0019394",
+      "Name": "Điều 46. Chi hỗ trợ xây dựng dự án, đề án, quy chế, quy định trong Nhà trường",
+      "Number": "46"
+    },
+    {
+      "id": "article_548e0aa8",
+      "Name": "Điều 47. Chi tổ chức lựa chọn nhà thầu",
+      "Number": "47"
+    },
+    {
+      "id": "article_3f08e7dc",
+      "Name": "Điều 48. Chi hoạt động của Hội đồng trường",
+      "Number": "48"
+    },
+    {
+      "id": "article_da0fca7d",
+      "Name": "Điều 49. Chi thù lao Hội đồng chức danh giáo sư cơ sở",
+      "Number": "49"
+    },
+    {
+      "id": "article_a3b21599",
+      "Name": "Điều 50. Công tác phát triển đội ngũ cán bộ, nguồn nhân lực",
+      "Number": "50"
+    },
+    {
+      "id": "article_f88d5775",
+      "Name": "Điều 51. Hội đồng tuyển dụng",
+      "Number": "51"
+    },
+    {
+      "id": "article_0b844047",
+      "Name": "Điều 52. Hội đồng xét nâng lương thường xuyên và nâng lương trước thời hạn, Hội đồng thi đua khen thưởng của Trường",
+      "Number": "52"
+    },
+    {
+      "id": "article_8fcdc336",
+      "Name": "Điều 53. Trích lập các Quỹ",
+      "Number": "53"
+    },
+    {
+      "id": "article_6fe36663",
+      "Name": "Điều 54. Sử dụng các quỹ",
+      "Number": "54"
+    },
+    {
+      "id": "article_3495e1ee",
+      "Name": "Điều 55. Các khoản chi phúc lợi",
+      "Number": "55"
+    },
+    {
+      "id": "article_1088a3dd",
+      "Name": "Điều 56. Chi các hoạt động Công đoàn, Đoàn Thanh niên và các tổ chức Đoàn thể khác.",
+      "Number": "56"
+    },
+    {
+      "id": "article_a5020e52",
+      "Name": "Điều 57. Các khoản chi khác",
+      "Number": "57"
+    },
+    {
+      "id": "article_ce283536",
+      "Name": "Điều 58. Tổ chức thực hiện",
+      "Number": "58"
+    }
+  ],
+  "Procedures": [],
+  "Tables": [
+    {
+      "id": "table_d76c91bc",
+      "Name": "Table_1",
+      "Reference": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "ĐẠI HỌC QUỐC GIA HÀ NỘI\nTRƯỜNG ĐẠI HỌC CÔNG NGHỆ",
+          "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc"
+        ]
+      ]
+    },
+    {
+      "id": "table_baa014ff",
+      "Name": "Table_2",
+      "Reference": [
+        [
+          "STT",
+          "Danh mục",
+          "Kinh phí quản lý và đảm bảo hoạt động chung (cơ sở vật chất, điện, nước, \nhành chính…)"
+        ],
+        [
+          "1",
+          "Nhiệm vụ KHCN có sử dụng NSNN cấp về trường, do Trường quản lý",
+          "5% tổng kinh phí thực hiện nhiệm vụ KHCN\n(nhưng không quá 300 triệu đồng)"
+        ]
+      ]
+    },
+    {
+      "id": "table_041f2599",
+      "Name": "Table_3",
+      "Reference": [
+        [
+          "STT",
+          "Kinh phí đề tài, \ndự án được cấp",
+          "Kinh phí quản lý và đảm bảo hoạt động chung(cơ sở vật chất, điện, nước, hành chính…) (%)",
+          "Kinh phí quản lý và đảm bảo hoạt động chung(cơ sở vật chất, điện, nước, hành chính…) (%)",
+          "Kinh phí quản lý và đảm bảo hoạt động chung(cơ sở vật chất, điện, nước, hành chính…) (%)",
+          "Kinh phí quản lý và đảm bảo hoạt động chung(cơ sở vật chất, điện, nước, hành chính…) (%)"
+        ],
+        [
+          "STT",
+          "Kinh phí đề tài, \ndự án được cấp",
+          "Kinh phí quản lý",
+          "Kinh phí hành chính, đảm bảo CSVC",
+          "Kinh phí trích các quỹ của Trường"
+        ],
+        [
+          "1",
+          "Dưới 200 triệu đồng",
+          "4",
+          "3",
+          "2"
+        ],
+        [
+          "2",
+          "Từ 200 triệu đến dưới 500 triệu đồng",
+          "3",
+          "2",
+          "2"
+        ],
+        [
+          "3",
+          "Từ 500 triệu đến dưới 01 tỷ đồng",
+          "2",
+          "2",
+          "2"
+        ],
+        [
+          "4",
+          "Từ 01 tỷ đồng trở lên",
+          "1,5",
+          "2",
+          "2"
+        ]
+      ]
+    },
+    {
+      "id": "table_a5311c96",
+      "Name": "Table_4",
+      "Reference": [
+        [
+          "P = P0 + P1 + P2 + P3",
+          "(Công thức 1)"
+        ]
+      ]
+    },
+    {
+      "id": "table_be2c899b",
+      "Name": "Table_5",
+      "Reference": [
+        [
+          "P0 = Lcs * (Hnb + Hcv + Htn + Hpk ) + Lcs * (Hnb + Hcv) * Hpn",
+          "(Công thức 2)"
+        ]
+      ]
+    },
+    {
+      "id": "table_dca72378",
+      "Name": "Table_6",
+      "Reference": [
+        [
+          "P1= Hvt * (a*Kcv + b*Kgv) * T1",
+          "(Công thức 3)"
+        ]
+      ]
+    },
+    {
+      "id": "table_fe2c5428",
+      "Name": "Table_7",
+      "Reference": [
+        [
+          "STT",
+          "Vị trí công việc",
+          "Hệ số (Hvt)"
+        ],
+        [
+          "1",
+          "Hiệu trưởng, Chủ tịch Hội đồng trường (HĐT)",
+          "7,0"
+        ],
+        [
+          "2",
+          "Phó Hiệu trưởng",
+          "5,5"
+        ],
+        [
+          "3",
+          "Phó Chủ tịch HĐT",
+          "4,5"
+        ],
+        [
+          "4",
+          "Trưởng/ Phó phụ trách đơn vị chức năng, Chủ nhiệm/ Phó Phụ trách khoa, Viện trưởng/Phó phụ trách các Viện đào tạo, Kế toán trưởng",
+          "3,8"
+        ],
+        [
+          "5",
+          "Phó trưởng đơn vị chức năng, Phó Chủ nhiệm khoa, Phó Viện trưởng Viện đào tạo",
+          "3,4"
+        ],
+        [
+          "6",
+          "Giám đốc Trung tâm nghiên cứu, Viện trưởng Viện nghiên cứu, Giám đốc Phòng thí nghiệm trọng điểm cấp ĐHQGHN trực thuộc trường",
+          "3,2"
+        ],
+        [
+          "7",
+          "Chủ nhiệm bộ môn và tương đương, Phó Giám đốc Trung tâm nghiên cứu, Phó Viện trưởng Viện nghiên cứu, Phó Giám đốc phòng thí nghiệm trọng điểm cấp ĐHQGHN trực thuộc trường",
+          "2,8"
+        ],
+        [
+          "8",
+          "Phó Chủ nhiệm Bộ môn và tương đương,",
+          "2,2"
+        ],
+        [
+          "9",
+          "Giảng viên",
+          "1,8"
+        ],
+        [
+          "10",
+          "Chuyên viên, Nghiên cứu viên",
+          "1,8"
+        ],
+        [
+          "11",
+          "Nhân viên (Hợp Đồng 68)",
+          "1,7"
+        ]
+      ]
+    },
+    {
+      "id": "table_feee4d71",
+      "Name": "Table_8",
+      "Reference": [
+        [
+          "STT",
+          "Vị trí công việc",
+          "Hệ số (Hvt) tăng thêm"
+        ],
+        [
+          "1",
+          "Trưởng/ phó đơn vị chức năng, Giám đốc Trung tâm nghiên cứu, Viện trưởng Viện nghiên cứu, Giám đốc Phòng thí nghiệm trọng điểm cấp ĐHQGHN trực thuộc trường hệ số điều chỉnh theo quy mô số người được định biên nhân lực của đơn vị",
+          ""
+        ],
+        [
+          "",
+          "Dưới 7 người",
+          "0"
+        ],
+        [
+          "",
+          "Từ 7 - dưới 10 người",
+          "0,1"
+        ],
+        [
+          "",
+          "Từ 10 - dưới 15 người",
+          "0,2"
+        ],
+        [
+          "",
+          "Từ trên 15 người",
+          "0,3"
+        ],
+        [
+          "2",
+          "Chủ nhiệm, Phó Chủ nhiệm các Khoa, Viện trưởng/ Phó Viện trưởng Viện đào tạo hệ số điều chỉnh theo quy mô người học của đơn vị (thời điểm tính ngày 01/01) hàng năm (phân loại theo thực tế hiện có của Trường)",
+          ""
+        ],
+        [
+          "",
+          "Khoa có quy mô trên 3.000 sinh viên",
+          "0,3"
+        ],
+        [
+          "",
+          "Khoa có quy mô sinh viên từ 2.000 đến dưới 3.000",
+          "0,2"
+        ],
+        [
+          "",
+          "Khoa có quy mô từ 1.000 sinh viên đến dưới 2.000",
+          "0,1"
+        ],
+        [
+          "",
+          "Khoa có quy mô dưới 1.000 sinh viên",
+          "0"
+        ]
+      ]
+    },
+    {
+      "id": "table_3eab5e15",
+      "Name": "Table_9",
+      "Reference": [
+        [
+          "Đối tượng",
+          "Hệ số a \nTỷ lệ tham gia quản lý, hành chính (tương ứng vị trí quản lý)",
+          "Hệ số b (tỷ lệ tham gia hoạt động chuyên môn; tương ứng vị trí giảng viên)"
+        ],
+        [
+          "Ban Giám hiệu, Lãnh đạo các đơn vị chức năng và chuyên viên, nhân viên hành chính",
+          "1",
+          "0"
+        ],
+        [
+          "Lãnh đạo các Khoa/ Viện đào tạo",
+          "0,4",
+          "0,6"
+        ],
+        [
+          "Lãnh đạo các đơn vị trực thuộc Trường",
+          "0,3",
+          "0,7"
+        ],
+        [
+          "Cán bộ quản lý cấp bộ môn và tương đương",
+          "0,2",
+          "0,8"
+        ],
+        [
+          "Giảng viên, NCV",
+          "0",
+          "1"
+        ]
+      ]
+    },
+    {
+      "id": "table_21d62de2",
+      "Name": "Table_10",
+      "Reference": [
+        [
+          "Đánh giá",
+          "Hệ số (Kcv)"
+        ],
+        [
+          "Mức 1",
+          "1"
+        ],
+        [
+          "Mức 2",
+          "0,85"
+        ],
+        [
+          "Mức 3",
+          "0,7"
+        ],
+        [
+          "Mức 4",
+          "0,5"
+        ]
+      ]
+    },
+    {
+      "id": "table_45e50a42",
+      "Name": "Table_11",
+      "Reference": [
+        [
+          "Kgd + Knc\nKgv =   --------------- x 0,85 + Knv x 0,15\n                      2",
+          "(Công thức 4)"
+        ]
+      ]
+    },
+    {
+      "id": "table_4936834c",
+      "Name": "Table_12",
+      "Reference": [
+        [
+          "Hệ số K",
+          "Đối tượng giảng viên",
+          "Đối tượng NCV"
+        ],
+        [
+          "Kgv",
+          "Tối đa bằng 1",
+          "Tối đa bằng 1"
+        ],
+        [
+          "Kgd",
+          "(Giờ chuẩn giảng dạy thực tế + giờ giảm trừ theo quy định)/320\nKgd tối đa bằng 1,5",
+          "(Giờ chuẩn giảng dạy thực tế + giờ giảm trừ theo quy định)/230\nKgd tối đa bằng 1,5"
+        ],
+        [
+          "Knc",
+          "(Giờ NCKH thực tế + giờ giảm trừ theo quy định)/ Định mức giờ NCKH của giảng viên\nKnc tối đa bằng 1,25",
+          "(Giờ NCKH thực tế + giờ giảm trừ theo quy định)/ Định mức giờ NCKH của giảng viên\nKnc tối đa bằng 1,25"
+        ],
+        [
+          "Knv",
+          "Knv do Trưởng đơn vị chuyên môn đánh giá, phân theo 04 mức:\nKnv = 1\nKnv = 0,75\nKnv = 0,5\nKnv = 0",
+          "Knv do Trưởng đơn vị chuyên môn đánh giá, phân theo 04 mức:\nKnv = 1\nKnv = 0,75\nKnv = 0,5\nKnv = 0"
+        ]
+      ]
+    },
+    {
+      "id": "table_4d9c5934",
+      "Name": "Table_13",
+      "Reference": [
+        [
+          "P2 =  Hnl *Hvt *(a*Kcv + b* Kgv)* T2",
+          "(Công thức 5)"
+        ]
+      ]
+    },
+    {
+      "id": "table_21ed045c",
+      "Name": "Table_14",
+      "Reference": [
+        [
+          "Đối tượng giảng viên/ NCV",
+          "Đối tượng cán bộ hành chính",
+          "Hệ số Hnl"
+        ],
+        [
+          "Giáo sư",
+          "",
+          "2,0"
+        ],
+        [
+          "Phó Giáo sư",
+          "",
+          "1,8"
+        ],
+        [
+          "GVCC (không là PGS), NCVCC, TSKH",
+          "CVCC",
+          "1,6"
+        ],
+        [
+          "Giảng viên có trình độ Tiến sĩ",
+          "",
+          "1,5"
+        ],
+        [
+          "NCV có trình độ Tiến sĩ",
+          "CV  và tương đương có trình độ Tiến sĩ",
+          "1,4"
+        ],
+        [
+          "GVC, NCVC (không phải là tiến sĩ)",
+          "CVC và tương đương",
+          "1,3"
+        ],
+        [
+          "Giảng viên/ NCV có trình độ thạc sĩ",
+          "CV và tương đương có trình độ thạc sĩ",
+          "1,2"
+        ],
+        [
+          "Giảng viên/ NCV có trình độ đại học",
+          "CV và tương đương có trình độ đại học",
+          "1,0"
+        ],
+        [
+          "Giảng viên tạo nguồn/trợ giảng",
+          "",
+          "0,8"
+        ],
+        [
+          "Khác",
+          "Nhân viên",
+          "0,8"
+        ]
+      ]
+    },
+    {
+      "id": "table_bb7b6472",
+      "Name": "Table_15",
+      "Reference": [
+        [
+          "P3 =  Hxl * T3",
+          "(Công thức 6)"
+        ]
+      ]
+    },
+    {
+      "id": "table_a31d9139",
+      "Name": "Table_16",
+      "Reference": [
+        [
+          "Xếp loại",
+          "Hệ số"
+        ],
+        [
+          "Xếp loại X",
+          "1,3"
+        ],
+        [
+          "Xếp loại A",
+          "1,25"
+        ],
+        [
+          "Xếp loại B",
+          "1"
+        ],
+        [
+          "Xếp loại C",
+          "0,5"
+        ]
+      ]
+    },
+    {
+      "id": "table_34ed571b",
+      "Name": "Table_17",
+      "Reference": [
+        [
+          "Giờ chuẩn giảng dạy thực tế \n       P4 =  ------------------------------------- x T4 x Hvt x Hnl       \n                                     320",
+          "(Công thức 7)"
+        ]
+      ]
+    },
+    {
+      "id": "table_62da4661",
+      "Name": "Table_18",
+      "Reference": [
+        [
+          "Vị trí kiêm nhiệm",
+          "Định mức phụ cấp/tháng (đồng)"
+        ],
+        [
+          "Bí thư Đảng ủy",
+          "3.000.000"
+        ],
+        [
+          "Phó Bí thư Đảng ủy",
+          "2.000.000"
+        ],
+        [
+          "Chủ tịch Công đoàn trường",
+          "1.500.000"
+        ],
+        [
+          "Phó chủ tịch công đoàn trường, Bí thư đoàn Thanh niên trường",
+          "1.300.000"
+        ],
+        [
+          "Đảng ủy viên Nhà trường",
+          "1.000.000"
+        ],
+        [
+          "Bí thư chi bộ, Trưởng ban Thanh tra Nhân dân, Phó Bí thư đoàn trường (là cán bộ), Chủ tịch Hội sinh viên Trường.",
+          "700.000"
+        ],
+        [
+          "Phó bí thư chi bộ, Bí thư liên chi đoàn (là cán bộ), Chủ tịch Công đoàn khối",
+          "500.000"
+        ]
+      ]
+    },
+    {
+      "id": "table_7e2799c0",
+      "Name": "Table_19",
+      "Reference": [
+        [
+          "TT",
+          "Địa điểm công tác",
+          "Công tác phí/ ngày (đồng)",
+          "Thuê chỗ ở/ ngày (đồng)"
+        ],
+        [
+          "1",
+          "Thành phố trực thuộc Trung ương, thành phố loại I",
+          "200.000",
+          "450.000"
+        ],
+        [
+          "2",
+          "Tỉnh, thành phố thuộc tỉnh loại II, huyện/thị ngoại thành Hà Nội",
+          "200.000",
+          "350.000"
+        ],
+        [
+          "3",
+          "Các địa phương khác",
+          "200.000",
+          "300.000"
+        ],
+        [
+          "4",
+          "Đi và về trong ngày",
+          "100.000",
+          ""
+        ]
+      ]
+    },
+    {
+      "id": "table_a9dad070",
+      "Name": "Table_20",
+      "Reference": [
+        [
+          "TT",
+          "Địa điểm công tác",
+          "Mức thanh toán tối đa thuê chỗ ở (đồng/ngày/phòng theo tiêu chuẩn 02 người/phòng)"
+        ],
+        [
+          "1",
+          "Đi công tác tại các quận, thành phố thuộc thành phố trực thuộc trung ương và thành phố là đô thị loại I thuộc tỉnh",
+          "1.000.000"
+        ],
+        [
+          "2",
+          "Đi công tác tại các vùng còn lại",
+          "700.000"
+        ]
+      ]
+    },
+    {
+      "id": "table_95e150f2",
+      "Name": "Table_21",
+      "Reference": [
+        [
+          "Nội dung chi",
+          "Đơn vị tính",
+          "Định mức (đồng)",
+          "Định mức (đồng)",
+          "Định mức (đồng)"
+        ],
+        [
+          "Nội dung chi",
+          "Đơn vị tính",
+          "Hội nghị tổng kết, đại hội cấp trường",
+          "Hội nghị tổng kết các mảng công tác/ Hội nghị cấp Khoa"
+        ],
+        [
+          "Thù lao trình bày báo cáo",
+          "báo cáo",
+          "700.000",
+          "500.000"
+        ],
+        [
+          "Thù lao viết báo cáo",
+          "báo cáo",
+          "1.000.000",
+          "800.000"
+        ],
+        [
+          "Thù lao đại biểu mời ngoài (cấp ĐHQGHN; khách mời của Trường) /khách mời của Khoa đối với Hội nghị cấp Khoa",
+          "Người buổi",
+          "Không quá 1.000.000",
+          "500.0000"
+        ],
+        [
+          "Thù lao đại biểu trong trường tham dự hội nghị (có mặt)",
+          "người/buổi",
+          "Không quá 300.000",
+          "200.000"
+        ],
+        [
+          "Ban Tổ chức Hội nghị (có Quyết định)",
+          "người/hội nghị",
+          "200.000",
+          "200.000"
+        ],
+        [
+          "Chi nước uống",
+          "người/buổi",
+          "20.000 – 30.000",
+          "20.000"
+        ],
+        [
+          "Chi phục vụ",
+          "người/Hội nghị",
+          "100.000",
+          "100.000"
+        ],
+        [
+          "Công tác phí (Nếu tổ chức ngoài trường)",
+          "Theo quy định công tác phí trong nước Điều 14",
+          "Theo quy định công tác phí trong nước Điều 14",
+          "Theo quy định công tác phí trong nước Điều 14",
+          "Theo quy định công tác phí trong nước Điều 14"
+        ],
+        [
+          "Chi thuê Hội trường",
+          "Dự trù trình Hiệu trưởng phê duyệt và thanh toán theo hóa đơn, chứng từ thực tế.",
+          "Dự trù trình Hiệu trưởng phê duyệt và thanh toán theo hóa đơn, chứng từ thực tế.",
+          "Dự trù trình Hiệu trưởng phê duyệt và thanh toán theo hóa đơn, chứng từ thực tế.",
+          "Dự trù trình Hiệu trưởng phê duyệt và thanh toán theo hóa đơn, chứng từ thực tế."
+        ],
+        [
+          "Chi khánh tiết và chi khác",
+          "Thực hiện theo Thông tư 40/2017/TT-BTC ngày 28/4/2017, đơn vị lập Dự trù trình Ban Giám hiệu phê duyệt và thanh toán theo hóa đơn, chứng từ thực tế.",
+          "Thực hiện theo Thông tư 40/2017/TT-BTC ngày 28/4/2017, đơn vị lập Dự trù trình Ban Giám hiệu phê duyệt và thanh toán theo hóa đơn, chứng từ thực tế.",
+          "Thực hiện theo Thông tư 40/2017/TT-BTC ngày 28/4/2017, đơn vị lập Dự trù trình Ban Giám hiệu phê duyệt và thanh toán theo hóa đơn, chứng từ thực tế.",
+          "Thực hiện theo Thông tư 40/2017/TT-BTC ngày 28/4/2017, đơn vị lập Dự trù trình Ban Giám hiệu phê duyệt và thanh toán theo hóa đơn, chứng từ thực tế."
+        ]
+      ]
+    },
+    {
+      "id": "table_d6f83f3e",
+      "Name": "Table_22",
+      "Reference": [
+        [
+          "Đơn vị, cá nhân sử dụng",
+          "Định mức/tháng/máy\n(đồng)",
+          "Số máy được sử dụng"
+        ],
+        [
+          "Hiệu trưởng, Chủ tịch HĐT, Phó Hiệu trưởng, Phó chủ tịch HĐT",
+          "500.000",
+          "1 máy / người"
+        ],
+        [
+          "Văn phòng khoa",
+          "500.000",
+          "1 máy / văn phòng"
+        ],
+        [
+          "Bộ môn",
+          "200.000",
+          "1 máy / bộ môn"
+        ],
+        [
+          "Phòng Hành chính - Quản trị",
+          "300.000",
+          "3"
+        ],
+        [
+          "Phòng Công tác Sinh viên",
+          "300.000",
+          "2"
+        ],
+        [
+          "Phòng Đào tạo",
+          "400.000",
+          "3"
+        ],
+        [
+          "Phòng KHCN và HTPT",
+          "300.000",
+          "2"
+        ],
+        [
+          "Phòng Kế hoạch -Tài chính",
+          "300.000",
+          "3"
+        ],
+        [
+          "Phòng TCCB",
+          "300.000",
+          "2"
+        ],
+        [
+          "Phòng Thanh tra – Pháp chế",
+          "200.000",
+          "1"
+        ],
+        [
+          "Trung tâm máy tính",
+          "300.000",
+          "1"
+        ],
+        [
+          "Trung tâm Đảm bảo Chất lượng",
+          "200.000",
+          "2"
+        ],
+        [
+          "Văn phòng Đoàn trường",
+          "300.000",
+          "1"
+        ],
+        [
+          "Văn phòng Đảng uỷ, Công đoàn",
+          "150.000",
+          "1"
+        ],
+        [
+          "Tổ bảo vệ, phòng chờ giảng",
+          "100.000",
+          "1 máy/tòa nhà"
+        ],
+        [
+          "Khu vực Hòa Lạc",
+          "200.000",
+          "3"
+        ]
+      ]
+    },
+    {
+      "id": "table_3a00614f",
+      "Name": "Table_23",
+      "Reference": [
+        [
+          "Chức vụ",
+          "Định mức đồng/tháng"
+        ],
+        [
+          "Hiệu trưởng, Chủ tịch HĐT",
+          "400.000"
+        ],
+        [
+          "Phó Hiệu trưởng, Phó Chủ tịch HĐT, Bí thư Đảng uỷ",
+          "350.000"
+        ],
+        [
+          "Phó bí thư Đảng ủy, Kế toán trưởng, Chủ nhiệm khoa, Trưởng đơn vị chức năng",
+          "300.000"
+        ],
+        [
+          "Phó Chủ nhiệm khoa, Phó Trưởng đơn vị chức năng",
+          "250.000"
+        ],
+        [
+          "Chủ tịch Công đoàn trường, Bí thư Đoàn trường",
+          "200.000"
+        ],
+        [
+          "Phó Chủ tịch Công đoàn trường, Chủ tịch Hội sinh viên và Phó Bí thư Đoàn trường; Trưởng ban Thanh tra Nhân dân; Lái xe",
+          "150.000"
+        ]
+      ]
+    },
+    {
+      "id": "table_5af29ef2",
+      "Name": "Table_24",
+      "Reference": [
+        [
+          "Loại xe",
+          "Định mức tiêu thụ nhiên liệu theo tuổi thọ xe",
+          "Định mức tiêu thụ nhiên liệu theo tuổi thọ xe",
+          "Định mức tiêu thụ nhiên liệu theo tuổi thọ xe",
+          "Định mức tiêu thụ nhiên liệu theo tuổi thọ xe"
+        ],
+        [
+          "Loại xe",
+          "Dưới 5 năm",
+          "Từ 5 – 7 năm",
+          "Từ 8 – 10 năm",
+          "Trên 10 năm"
+        ],
+        [
+          "Xe 4 chỗ ngồi",
+          "17",
+          "18",
+          "19",
+          "20"
+        ],
+        [
+          "Xe 16 chỗ ngồi",
+          "19",
+          "20",
+          "21",
+          "22"
+        ]
+      ]
+    },
+    {
+      "id": "table_dd5e9fdc",
+      "Name": "Table_25",
+      "Reference": [
+        [
+          "Thù lao giảng dạy vượt giờ",
+          "=",
+          "Số giờ chuẩn giảng dạy vượt giờ",
+          "x",
+          "Định mức chi vượt giờ",
+          "(Công thức 8)"
+        ]
+      ]
+    },
+    {
+      "id": "table_dd8169e0",
+      "Name": "Table_26",
+      "Reference": [
+        [
+          "Số giờ chuẩn giảng     dạy vượt giờ",
+          "=",
+          "Số giờ chuẩn\ngiảng dạy thực tế",
+          "-",
+          "Số giờ chuẩn\nđịnh mức",
+          "(Công thức 9)"
+        ]
+      ]
+    },
+    {
+      "id": "table_abe69f59",
+      "Name": "Table_27",
+      "Reference": [
+        [
+          "STT",
+          "Chức danh",
+          "Đơn vị tính",
+          "Định mức (đồng)"
+        ],
+        [
+          "1",
+          "Giảng viên cao cấp và tương đương",
+          "Giờ chuẩn",
+          "175.000"
+        ],
+        [
+          "2",
+          "Giảng viên chính và tương đương, giảng viên có học vị tiến sỹ",
+          "Giờ chuẩn",
+          "165.000"
+        ],
+        [
+          "3",
+          "Giảng viên có học vị thạc sỹ và tương đương",
+          "Giờ chuẩn",
+          "140.000"
+        ],
+        [
+          "4",
+          "Giảng viên khác",
+          "Giờ chuẩn",
+          "125.000"
+        ]
+      ]
+    },
+    {
+      "id": "table_e276ec2e",
+      "Name": "Table_28",
+      "Reference": [
+        [
+          "Thù lao giảng dạy vượt giờ tạm ứng hàng tháng",
+          "=",
+          "Số giờ chuẩn đăng ký dạy vượt giờ bình quân /tháng",
+          "x",
+          "Định mức chi vượt giờ"
+        ]
+      ]
+    },
+    {
+      "id": "table_d653aae6",
+      "Name": "Table_29",
+      "Reference": [
+        [
+          "Thù lao giờ hỗ trợ giờ giảng dạy CLC",
+          "=",
+          "Số giờ hỗ trợ giảng dạy CLC quy đổi thành giờ chuẩn",
+          "x",
+          "Định mức\nchi hỗ trợ",
+          "(Công thức 11)"
+        ]
+      ]
+    },
+    {
+      "id": "table_099b5c74",
+      "Name": "Table_30",
+      "Reference": [
+        [
+          "Nội dung",
+          "Đơn vị tính",
+          "Định mức hỗ trợ (đồng)"
+        ],
+        [
+          "Các môn học giảng dạy lý thuyết bằng tiếng Việt, dạy bài tập, thực hành chia nhóm",
+          "",
+          ""
+        ],
+        [
+          "+ GS, PGS",
+          "Giờ chuẩn",
+          "120.000"
+        ],
+        [
+          "+ TS, GVC",
+          "Giờ chuẩn",
+          "100.000"
+        ],
+        [
+          "+ Đối tượng khác",
+          "Giờ chuẩn",
+          "80.000"
+        ]
+      ]
+    },
+    {
+      "id": "table_86ed2b66",
+      "Name": "Table_31",
+      "Reference": [
+        [
+          "Thù lao giờ hỗ trợ",
+          "=",
+          "Số giờ hỗ trợ\nquy đổi thành giờ chuẩn",
+          "x",
+          "Định mức\nchi vượt giờ",
+          "(Công thức 12)"
+        ]
+      ]
+    },
+    {
+      "id": "table_890e2b15",
+      "Name": "Table_32",
+      "Reference": [
+        [
+          "STT",
+          "Chức danh",
+          "Đơn vị tính",
+          "Định mức (đồng)"
+        ],
+        [
+          "1",
+          "Hướng dẫn 01 khóa luận tốt nghiệp",
+          "Khóa luận",
+          "2.000.000"
+        ],
+        [
+          "2",
+          "Hướng dẫn 01 đồ án tốt nghiệp",
+          "Luận văn",
+          "2.500.000"
+        ],
+        [
+          "3",
+          "Hướng dẫn luận văn thạc sĩ",
+          "Luận văn",
+          "3.000.000"
+        ],
+        [
+          "4",
+          "Hướng dẫn nghiên cứu sinh từ thạc sĩ",
+          "Năm",
+          "10.000.000"
+        ],
+        [
+          "5",
+          "Hướng dẫn nghiên cứu sinh từ cử nhân/kỹ sư",
+          "Năm",
+          "8.000.000"
+        ]
+      ]
+    },
+    {
+      "id": "table_0d072577",
+      "Name": "Table_33",
+      "Reference": [
+        [
+          "Chức trách",
+          "Đơn vị tính",
+          "Định mức (đồng)"
+        ],
+        [
+          "Chủ tịch",
+          "người/buổi",
+          "500.000"
+        ],
+        [
+          "Thư ký",
+          "người/buổi",
+          "400.000"
+        ],
+        [
+          "Ủy viên",
+          "người/buổi",
+          "300.000"
+        ],
+        [
+          "Phản biện",
+          "Khóa luận hoặc đồ án",
+          "400.000"
+        ],
+        [
+          "Phục vụ",
+          "người/buổi",
+          "100.000"
+        ],
+        [
+          "Nước uống, trang trí, in ấn tài liệu (nếu có)…",
+          "buổi",
+          "100.000"
+        ],
+        [
+          "Hỗ trợ chi phí đi lại cán bộ/giảng viên ngoài trường",
+          "người/buổi",
+          "200.000"
+        ]
+      ]
+    },
+    {
+      "id": "table_88d5bb01",
+      "Name": "Table_34",
+      "Reference": [
+        [
+          "Chức trách",
+          "Đơn vị tính",
+          "Định mức (đồng)"
+        ],
+        [
+          "Chủ tịch",
+          "người/buổi",
+          "750.000"
+        ],
+        [
+          "Thư ký",
+          "người/buổi",
+          "600.000"
+        ],
+        [
+          "Ủy viên",
+          "người/buổi",
+          "450.000"
+        ],
+        [
+          "Phản biện",
+          "khóa luận hoặc đồ án",
+          "600.000"
+        ],
+        [
+          "Phục vụ",
+          "người/buổi",
+          "100.000"
+        ],
+        [
+          "Nước uống, trang trí, in ấn tài liệu (nếu có)…",
+          "buổi",
+          "100.000"
+        ],
+        [
+          "Hỗ trợ chi phí đi lại cán bộ/giảng viên ngoài trường",
+          "người/buổi",
+          "200.000"
+        ]
+      ]
+    },
+    {
+      "id": "table_6978256a",
+      "Name": "Table_35",
+      "Reference": [
+        [
+          "Chức trách",
+          "Đơn vị tính",
+          "Định mức (đồng)"
+        ],
+        [
+          "Chủ tịch",
+          "người/Hội đồng",
+          "500.000"
+        ],
+        [
+          "Thư ký",
+          "người/ Hội đồng",
+          "400.000"
+        ],
+        [
+          "Ủy viên",
+          "người/ Hội đồng",
+          "300.000"
+        ],
+        [
+          "Phản biện trong trường/ ngoài trường",
+          "luận văn",
+          "400.000"
+        ],
+        [
+          "Phục vụ",
+          "người/buổi",
+          "100.000"
+        ],
+        [
+          "Nước uống, trang trí, in ấn tài liệu (nếu có)…",
+          "Hội đồng",
+          "200.000"
+        ],
+        [
+          "Hỗ trợ chi phí đi lại CB/GV ngoài trường",
+          "người/ Hội đồng",
+          "200.000"
+        ]
+      ]
+    },
+    {
+      "id": "table_3e28864d",
+      "Name": "Table_36",
+      "Reference": [
+        [
+          "Chức trách",
+          "Đơn vị tính",
+          "Chuyên đề NCS",
+          "Luận án tiến sĩ",
+          "Luận án tiến sĩ"
+        ],
+        [
+          "Chức trách",
+          "Đơn vị tính",
+          "Chuyên đề NCS",
+          "Cấp cơ sở",
+          "Cấp ĐHQG"
+        ],
+        [
+          "Chủ tịch",
+          "người / Hội đồng",
+          "400.000",
+          "800.000",
+          "1.000.000"
+        ],
+        [
+          "Thư ký",
+          "người / Hội đồng",
+          "350.000",
+          "600.000",
+          "800.000"
+        ],
+        [
+          "Ủy viên",
+          "người / Hội đồng",
+          "300.000",
+          "500.000",
+          "700.000"
+        ],
+        [
+          "Phản biện",
+          "Người/luận án",
+          "",
+          "1.300.000",
+          "1.700.000"
+        ],
+        [
+          "Phản biện độc lập",
+          "Người/ luận án",
+          "",
+          "",
+          "2.000.000"
+        ],
+        [
+          "Phục vụ",
+          "người/buổi",
+          "100.000",
+          "100.000",
+          "100.000"
+        ],
+        [
+          "Nước uống, trang trí, in ấn tài liệu (nếu có)…",
+          "Hội đồng",
+          "100.000",
+          "200.000",
+          "300.000"
+        ],
+        [
+          "Hỗ trợ chi phí đi lại CB/GV ngoài trường",
+          "người / Hội đồng",
+          "",
+          "200.000",
+          "200.000"
+        ]
+      ]
+    },
+    {
+      "id": "table_27a521e3",
+      "Name": "Table_37",
+      "Reference": [
+        [
+          "Chức trách",
+          "Đơn vị tính",
+          "Định mức (đồng)"
+        ],
+        [
+          "Chủ tịch",
+          "người/buổi",
+          "500.000"
+        ],
+        [
+          "Thư ký",
+          "người/buổi",
+          "400.000"
+        ],
+        [
+          "Thành viên khác tham dự",
+          "người/buổi",
+          "300.000"
+        ],
+        [
+          "Thù lao đọc và viết nhận xét luận án",
+          "người/luận án",
+          "300.000"
+        ],
+        [
+          "Nước uống",
+          "người/buổi",
+          "20.000"
+        ],
+        [
+          "Phục vụ",
+          "người/buổi",
+          "100.000"
+        ],
+        [
+          "Hỗ trợ chi phí đi lại cán bộ/giảng viên ngoài trường",
+          "người/buổi",
+          "200.000"
+        ]
+      ]
+    },
+    {
+      "id": "table_a461bcfc",
+      "Name": "Table_38",
+      "Reference": [
+        [
+          "Chức trách",
+          "Đơn vị tính",
+          "Định mức (đồng)"
+        ],
+        [
+          "Chủ tịch",
+          "người/buổi",
+          "300.000"
+        ],
+        [
+          "Thư ký",
+          "người/buổi",
+          "250.000"
+        ],
+        [
+          "Ủy viên Phản biện (nếu có)",
+          "người/buổi",
+          "350.000"
+        ],
+        [
+          "Ủy viên",
+          "người/buổi",
+          "200.000"
+        ]
+      ]
+    },
+    {
+      "id": "table_087c13af",
+      "Name": "Table_39",
+      "Reference": [
+        [
+          "STT",
+          "Nội dung chi",
+          "Định mức (đồng)"
+        ],
+        [
+          "1",
+          "Chi xây dựng Đề án",
+          ""
+        ],
+        [
+          "",
+          "- Hệ Đại học chuẩn\n- Thạc sĩ và Tiến sĩ độc lập\n- Tiến sĩ có liên thông với chương trình đào tạo thạc sĩ cùng chuyên ngành",
+          "35.000.000\n18.000.000\n10.000.000"
+        ],
+        [
+          "2",
+          "Chi thẩm định nhận xét cấp Trường",
+          ""
+        ],
+        [
+          "",
+          "- Chủ tịch\n- Thư ký\n- Ủy viên\n- Phản biện\n- Nước uống, trang trí, in ấn tài liệu (nếu có)…",
+          "700.000\n500.000\n300.000\n500.000"
+        ],
+        [
+          "",
+          "- Thù lao nhận xét, phản biện Đề án mở ngành chương trình đào tạo trong Hội đồng Khoa học đào tạo (tính cho 01 chương trình)",
+          "2.000.000"
+        ],
+        [
+          "3",
+          "Chi thẩm định nhận xét cấp ĐHQGHN",
+          ""
+        ],
+        [
+          "",
+          "- Chủ tịch\n- Phó Chủ tịch\n- Thư ký\n- Ủy viên\n- Phản biện \n- Thư ký hành chính (hỗ trợ pháp lý)\n- Nước uống, trang trí, in ấn tài liệu (nếu có)…",
+          "1.500.000\n1.000.000\n700.000\n500.000\n800.000\n200.000"
+        ],
+        [
+          "4",
+          "Chi quản lý",
+          ""
+        ],
+        [
+          "",
+          "- Hệ Đại học chuẩn\n- Thạc sĩ và Tiến sĩ độc lập\n- Tiến sĩ có liên thông với chương trình đào tạo thạc sĩ cùng chuyên ngành",
+          "7.000.000\n4.000.000\n2.000.000"
+        ]
+      ]
+    },
+    {
+      "id": "table_ddbcec07",
+      "Name": "Table_40",
+      "Reference": [
+        [
+          "Nội dung chi",
+          "Đơn vị tính",
+          "Định mức (đồng)"
+        ],
+        [
+          "Tiếng Anh",
+          "Tiếng Anh",
+          "Tiếng Anh"
+        ],
+        [
+          "Chi biên soạn, chế bản, sửa chữa",
+          "môn học",
+          "4.500.000"
+        ],
+        [
+          "Thẩm định, phản biện, phê duyệt",
+          "môn học",
+          "500.000"
+        ],
+        [
+          "Chi công tác quản lý",
+          "môn học",
+          "1000.000"
+        ],
+        [
+          "Tiếng Việt",
+          "Tiếng Việt",
+          "Tiếng Việt"
+        ],
+        [
+          "Chi biên soạn, chế bản, sửa chữa",
+          "môn học",
+          "3.500.000"
+        ],
+        [
+          "Thẩm định, phản biện, phê duyệt",
+          "môn học",
+          "300.000"
+        ],
+        [
+          "Chi công tác quản lý",
+          "môn học",
+          "800.000"
+        ]
+      ]
+    },
+    {
+      "id": "table_e52dbaae",
+      "Name": "Table_41",
+      "Reference": [
+        [
+          "STT",
+          "Nội dung chi",
+          "Đơn vị tính",
+          "Định mức (đồng)",
+          "Định mức (đồng)"
+        ],
+        [
+          "STT",
+          "Nội dung chi",
+          "Đơn vị tính",
+          "Tiếng Việt",
+          "Tiếng Anh"
+        ],
+        [
+          "1",
+          "Biên soạn, sửa chữa, biên tập tổng thể",
+          "tín chỉ",
+          "1.000.000",
+          "1.200.000"
+        ],
+        [
+          "2",
+          "Hội đồng nghiệm thu cấp Khoa\n- Chủ tịch\n- Thư ký\n- Ủy viên\n- Phản biện",
+          "người/buổi\nngười/buổi\nngười/buổi\nhợp đồng",
+          "300.000\n250.000\n200.000\n300.000",
+          "500.000\n400.000\n300.000\n500.000"
+        ],
+        [
+          "3",
+          "Hội đồng nghiệm thu cấp Trường\n- Chủ tịch\n- Thư ký\n- Ủy viên\n- Phản biện\n + Họp nghiệm thu\n + Gửi ý kiến phản biện",
+          "người/buổi\nngười/buổi\nngười/buổi\n\nngười/buổi\nđề cương",
+          "400.000\n300.000\n250.000\n\n250.000\n300.000",
+          "600.000\n500.000\n350.000\n\n350.000\n500.000"
+        ],
+        [
+          "4",
+          "Quản lý cấp Trường",
+          "hợp đồng",
+          "3.500.000",
+          "3.500.000"
+        ]
+      ]
+    },
+    {
+      "id": "table_38c506ec",
+      "Name": "Table_42",
+      "Reference": [
+        [
+          "STT",
+          "Nội dung công việc",
+          "Đơn vị tính",
+          "Định mức (đồng)"
+        ],
+        [
+          "1",
+          "Biên soạn, chế bản, sửa chữa, biên tập",
+          "tín chỉ",
+          "10.000.000"
+        ],
+        [
+          "2",
+          "Hội đồng xét giáo trình\n- Chủ tịch\n- Thư ký\n- Ủy viên\n- Phản biện\n + Họp hội đồng xét\n + Gửi ý kiến phản biện",
+          "người/buổi\nngười/buổi\nngười/buổi\n\nngười/buổi\ngiáo trình",
+          "500.000\n400.000\n300.000\n\n300.000\n300.000"
+        ],
+        [
+          "2",
+          "Hội đồng nghiệm thu cấp Khoa \n- Chủ tịch\n- Thư ký\n- Ủy viên\n- Phản biện\n + Họp hội đồng xét\n + Gửi ý kiến phản biện",
+          "người/buổi\nngười/buổi\nngười/buổi\n\nngười/buổi\ngiáo trình",
+          "400.000\n300.000\n250.000\n\n200.000\n300.000"
+        ],
+        [
+          "3",
+          "Hội đồng nghiệm thu cấp Trường\n- Chủ tịch\n- Thư ký\n- Ủy viên\n- Phản biện\n + Họp hội đồng xét\n + Gửi ý kiến phản biện",
+          "người/buổi\nngười/buổi\nngười/buổi\n\nngười/buổi\ngiáo trình",
+          "600.000\n450.000\n400.000\n\n400.000\n300.000"
+        ],
+        [
+          "4",
+          "Quản lý cấp trường",
+          "giáo trình",
+          "3.500.000"
+        ]
+      ]
+    },
+    {
+      "id": "table_205a6505",
+      "Name": "Table_43",
+      "Reference": [
+        [
+          "TT",
+          "Nội dung công việc",
+          "Đơn vị tính",
+          "Định mức (đồng)"
+        ],
+        [
+          "1",
+          "Biên soạn, chế bản",
+          "Tín chỉ",
+          "2.500.000"
+        ],
+        [
+          "2",
+          "Hội đồng nghiệm thu cấp Khoa \n- Chủ tịch\n- Thư ký\n- Ủy viên\n- Phản biện\n + Họp hội đồng xét\n + Gửi ý kiến phản biện",
+          "người/buổi\nngười/buổi\nngười/buổi\n\nngười/buổi\nbài giảng",
+          "300.000\n250.000\n200.000\n\n250.000\n200.000"
+        ],
+        [
+          "3",
+          "Hội đồng nghiệm thu cấp Trường\n- Chủ tịch\n- Thư ký\n- Ủy viên\n- Phản biện\n + Họp hội đồng xét\n + Gửi ý kiến phản biện",
+          "người/buổi\nngười/buổi\nngười/buổi\n\nngười/buổi\nbài giảng",
+          "500.000\n400.000\n250.000\n\n400.000\n200.000"
+        ]
+      ]
+    },
+    {
+      "id": "table_67e764c2",
+      "Name": "Table_44",
+      "Reference": [
+        [
+          "TT",
+          "Nội dung công việc",
+          "Đơn vị tính",
+          "Định mức (đồng)"
+        ],
+        [
+          "1",
+          "Biên soạn, chế bản",
+          "Tín chỉ",
+          "2.000.000"
+        ],
+        [
+          "2",
+          "Hội đồng nghiệm thu cấp Khoa \n- Chủ tịch\n- Thư ký\n- Ủy viên\n- Phản biện\n + Họp hội đồng xét\n + Gửi ý kiến phản biện",
+          "người/buổi\nngười/buổi\nngười/buổi\n\nngười/buổi\nbài giảng",
+          "300.000\n250.000\n200.000\n\n250.000\n200.000"
+        ]
+      ]
+    },
+    {
+      "id": "table_5f22b8f5",
+      "Name": "Table_45",
+      "Reference": [
+        [
+          "STT",
+          "Nội dung",
+          "Định mức (đồng)"
+        ],
+        [
+          "1",
+          "Tiền ở cho sinh viên",
+          "Chi theo thực tế, nhưng không vượt quá mức quy định, chế độ công tác phí đối với cán bộ."
+        ],
+        [
+          "2",
+          "Tiền tàu xe",
+          "Chi theo thực tế, nhưng không vượt quá mức quy định, chế độ công tác phí đối với cán bộ."
+        ],
+        [
+          "3",
+          "Tiền ăn cho sinh viên",
+          "Chi theo thực tế, nhưng không vượt quá mức quy định, chế độ công tác phí đối với cán bộ."
+        ],
+        [
+          "4",
+          "Bồi dưỡng sinh viên dự thi",
+          "100.000 đồng/SV /môn dự thi"
+        ],
+        [
+          "5",
+          "Chi khác: Tham quan, giao lưu…",
+          "Theo kế hoạch được duyệt"
+        ]
+      ]
+    },
+    {
+      "id": "table_3ece8d2e",
+      "Name": "Table_46",
+      "Reference": [
+        [
+          "STT",
+          "Chức trách",
+          "Mức chi (đồng)",
+          "Mức chi (đồng)"
+        ],
+        [
+          "STT",
+          "Chức trách",
+          "Buổi 1 (bao gồm cả buổi làm thủ tục)",
+          "Buổi 2 và\nBuổi 3"
+        ],
+        [
+          "1",
+          "Trưởng ban coi thi",
+          "500.000",
+          "500.000"
+        ],
+        [
+          "2",
+          "Ủy viên thư ký Ban coi thi",
+          "450.000",
+          "450.000"
+        ],
+        [
+          "3",
+          "Ủy viên Ban coi thi",
+          "450.000",
+          "450.000"
+        ],
+        [
+          "4",
+          "Cán bộ trực anh ninh, cán bộ y tế",
+          "400.000",
+          "350.000"
+        ],
+        [
+          "5",
+          "Cán bộ coi thi, trực đề, giám sát, thanh tra cấp trường",
+          "400.000",
+          "350.000"
+        ],
+        [
+          "6",
+          "Trực đề thi",
+          "",
+          "350.000"
+        ],
+        [
+          "7",
+          "Bảo vệ, lái xe, trực điện nước, phục vụ",
+          "200.000",
+          "200.000"
+        ],
+        [
+          "8",
+          "Tình nguyện viên hỗ trợ",
+          "75.000",
+          "75.000"
+        ]
+      ]
+    },
+    {
+      "id": "table_789e457c",
+      "Name": "Table_47",
+      "Reference": [
+        [
+          "Chức trách",
+          "Đơn vị tính",
+          "Định mức (đồng)",
+          "Định mức (đồng)"
+        ],
+        [
+          "Chức trách",
+          "Đơn vị tính",
+          "Cấp trường",
+          "Cấp khoa"
+        ],
+        [
+          "Chủ tịch",
+          "người/kỳ họp",
+          "1.500.000",
+          "1.200.000"
+        ],
+        [
+          "Thư ký",
+          "người/kỳ họp",
+          "1.200.000",
+          "1.000.000"
+        ],
+        [
+          "Ủy viên",
+          "người/kỳ họp",
+          "1.000.000",
+          "800.000"
+        ],
+        [
+          "Đại biểu thuộc Ban Giám đốc ĐHQGHN",
+          "người/kỳ họp",
+          "1.000.000",
+          ""
+        ],
+        [
+          "Đại biểu thuộc các Ban chức năng của ĐHQGHN",
+          "người/kỳ họp",
+          "500.000",
+          ""
+        ],
+        [
+          "Đại biểu dự khác",
+          "người/kỳ họp",
+          "200.000",
+          ""
+        ],
+        [
+          "Nước uống",
+          "người/buổi",
+          "20.000",
+          "20.000"
+        ],
+        [
+          "Trang trí (nếu có)",
+          "Kỳ họp",
+          "1.000.000",
+          "1.000.000"
+        ]
+      ]
+    },
+    {
+      "id": "table_f9651bce",
+      "Name": "Table_48",
+      "Reference": [
+        [
+          "Chức trách",
+          "Đơn vị tính",
+          "Định mức (đồng)"
+        ],
+        [
+          "Chủ tịch",
+          "người/nhiệm vụ",
+          "500.000"
+        ],
+        [
+          "Thư ký hội đồng",
+          "người/nhiệm vụ",
+          "400.000"
+        ],
+        [
+          "Ủy viên",
+          "người/nhiệm vụ",
+          "400.000"
+        ],
+        [
+          "Thư ký hành chính",
+          "người/nhiệm vụ",
+          "200.000"
+        ]
+      ]
+    },
+    {
+      "id": "table_eb649c08",
+      "Name": "Table_49",
+      "Reference": [
+        [
+          "Chức trách",
+          "Đơn vị tính",
+          "Mức chi (đồng)",
+          "Mức chi (đồng)"
+        ],
+        [
+          "Chức trách",
+          "Đơn vị tính",
+          "Cấp cơ sở",
+          "Cấp ĐHQG"
+        ],
+        [
+          "Chủ tịch",
+          "người/ Hội đồng",
+          "500.000",
+          "800.000"
+        ],
+        [
+          "Thư ký",
+          "người/ Hội đồng",
+          "400.000",
+          "600.000"
+        ],
+        [
+          "Ủy viên",
+          "người/ Hội đồng",
+          "300.000",
+          "500.000"
+        ],
+        [
+          "Thư ký hành chính",
+          "người/ Hội đồng",
+          "200.000",
+          "300.000"
+        ],
+        [
+          "Đại biểu mời tham dự",
+          "người/ Hội đồng",
+          "200.000",
+          "200.000"
+        ],
+        [
+          "Nhận xét đánh giá của ủy viên Hội đồng",
+          "phiếu nhận xét đánh giá",
+          "200.000",
+          "300.000"
+        ],
+        [
+          "Nhận xét đánh giá của ủy viên phản biện trong Hội đồng",
+          "phiếu nhận xét đánh giá",
+          "500.000",
+          "700.000"
+        ]
+      ]
+    },
+    {
+      "id": "table_2199bef8",
+      "Name": "Table_50",
+      "Reference": [
+        [
+          "Chức trách",
+          "Đơn vị tính",
+          "Mức chi (đồng)",
+          "Mức chi (đồng)"
+        ],
+        [
+          "Chức trách",
+          "Đơn vị tính",
+          "Quy mô dưới 20 tỷ",
+          "Quy mô trên 20 tỷ"
+        ],
+        [
+          "Chủ tịch",
+          "người / Hội đồng",
+          "800.000",
+          "1.000.000"
+        ],
+        [
+          "Ủy viên phản biện",
+          "người / Hội đồng",
+          "1.000.000",
+          "1.200.000"
+        ],
+        [
+          "Ủy viên",
+          "người / Hội đồng",
+          "600.000",
+          "800.000"
+        ],
+        [
+          "Thư ký hành chính",
+          "người / Hội đồng",
+          "300.000",
+          "300.000"
+        ]
+      ]
+    },
+    {
+      "id": "table_101228d9",
+      "Name": "Table_51",
+      "Reference": [
+        [
+          "Chức trách",
+          "Đơn vị tính",
+          "Định mức (đồng)"
+        ],
+        [
+          "Chủ tịch",
+          "người/buổi",
+          "500.000"
+        ],
+        [
+          "Thư ký",
+          "người/buổi",
+          "400.000"
+        ],
+        [
+          "Ủy viên",
+          "người/buổi",
+          "300.000"
+        ]
+      ]
+    },
+    {
+      "id": "table_cf0c34b0",
+      "Name": "Table_52",
+      "Reference": [
+        [
+          "Chức trách",
+          "Đơn vị tính",
+          "Định mức (đồng)"
+        ],
+        [
+          "Chủ tịch",
+          "người/buổi",
+          "750.000"
+        ],
+        [
+          "Thư ký",
+          "người/buổi",
+          "600.000"
+        ],
+        [
+          "Ủy viên",
+          "người/buổi",
+          "500.000"
+        ]
+      ]
+    },
+    {
+      "id": "table_b6e47eef",
+      "Name": "Table_53",
+      "Reference": [
+        [
+          "STT",
+          "Giải",
+          "Mức thưởng đối với kỳ thi cấp quốc tế (đồng)",
+          "Mức thưởng đối với kỳ thi cấp quốc tế (đồng)",
+          "Mức thưởng đối với kỳ thi cấp quốc gia (đồng)",
+          "Mức thưởng đối với kỳ thi cấp quốc gia (đồng)"
+        ],
+        [
+          "STT",
+          "Giải",
+          "Đồng đội",
+          "Cá nhân",
+          "Đồng đội",
+          "Cá nhân"
+        ],
+        [
+          "1",
+          "Nhất/ Cúp vàng",
+          "4.000.000",
+          "2.000.000",
+          "2.000.000",
+          "1.000.000"
+        ],
+        [
+          "2",
+          "Nhì/cúp bạc",
+          "3.000.000",
+          "1.500.000",
+          "1.500.000",
+          "700.000"
+        ],
+        [
+          "3",
+          "Ba/Cúp đồng",
+          "2.000.000",
+          "1.000.000",
+          "1.000.000",
+          "500.000"
+        ],
+        [
+          "4",
+          "Khuyến khích",
+          "1.200.000",
+          "600.000",
+          "600.000",
+          "300.000"
+        ]
+      ]
+    },
+    {
+      "id": "table_2e79aaaf",
+      "Name": "Table_54",
+      "Reference": [
+        [
+          "STT",
+          "Chức trách",
+          "Đơn vị tính",
+          "Định mức (đồng)"
+        ],
+        [
+          "1",
+          "Chi thẩm định kết quả lựa chọn nhà thầu",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Thù lao thẩm định",
+          "người/hồ sơ",
+          "400.000"
+        ],
+        [
+          "2",
+          "Chi tổ chuyên gia xét chọn nhà thầu",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Tổ trưởng",
+          "người",
+          "500.000"
+        ],
+        [
+          "",
+          "Thư ký",
+          "người",
+          "300.000"
+        ],
+        [
+          "",
+          "Ủy viên",
+          "người",
+          "200.000"
+        ]
+      ]
+    },
+    {
+      "id": "table_5684610d",
+      "Name": "Table_55",
+      "Reference": [
+        [
+          "STT",
+          "Chức trách",
+          "Đơn vị tính",
+          "Định mức (đồng)"
+        ],
+        [
+          "I",
+          "Chi công tác thẩm định, chấm thầu",
+          "",
+          ""
+        ],
+        [
+          "1",
+          "Chi thẩm định hồ sơ mời thầu/ hồ sơ yêu cầu",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Thù lao tổ thẩm định",
+          "người/hồ sơ",
+          "400.000"
+        ],
+        [
+          "2",
+          "Chi thẩm định kết quả lựa chọn nhà thầu",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Thù lao tổ thẩm định",
+          "người/hồ sơ",
+          "400.000"
+        ],
+        [
+          "II",
+          "Chi công tác chấm thầu của Hội đồng/Tổ chuyên gia",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Chù tịch Hội đồng/Tổ trường",
+          "người/gói",
+          "800.000"
+        ],
+        [
+          "",
+          "Thư ký",
+          "người/gói",
+          "600.000"
+        ],
+        [
+          "",
+          "Uy viên Hội đồng/Thành viên Tổ chuyên gia",
+          "người/gói",
+          "400.000"
+        ],
+        [
+          "",
+          "Thù lao viết nhận xét của các thành viên",
+          "người",
+          "300.000"
+        ],
+        [
+          "III",
+          "Các chi phí khác phục vụ quá trình lựa chọn nhà thầu",
+          "",
+          ""
+        ],
+        [
+          "1",
+          "Chi phí đăng tải thông báo mời thầu",
+          "",
+          "Theo hóa đơn"
+        ]
+      ]
+    },
+    {
+      "id": "table_03e0966b",
+      "Name": "Table_56",
+      "Reference": [
+        [
+          "STT",
+          "Chức trách",
+          "Đơn vị tính",
+          "Định mức (đồng)"
+        ],
+        [
+          "I",
+          "Chi công tác thẩm định, chấm thầu",
+          "",
+          ""
+        ],
+        [
+          "1",
+          "Chi thẩm định hồ sơ mời thầu/ hồ sơ yêu cầu",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Thù lao tổ thẩm định",
+          "người/hồ sơ",
+          "500.000"
+        ],
+        [
+          "2",
+          "Chi thẩm định kết quả lựa chọn nhà thầu",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Thù lao tổ thẩm định",
+          "người/hồ sơ",
+          "500.000"
+        ],
+        [
+          "II",
+          "Chi công tác chấm thầu của Hội đồng/Tổ chuyên gia",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Chù tịch Hội đồng/Tổ trường",
+          "người/gói",
+          "1.000.000"
+        ],
+        [
+          "",
+          "Thư ký",
+          "người/gói",
+          "700.000"
+        ],
+        [
+          "",
+          "Ủy viên Hội đồng/Thành viên Tổ chuyên gia",
+          "người/gói",
+          "500.000"
+        ],
+        [
+          "",
+          "Thù lao viết nhận xét của các thành viên",
+          "người",
+          "300.000"
+        ],
+        [
+          "III",
+          "Các chi phí khác phục vụ quá trình lựa chọn nhà thầu",
+          "",
+          ""
+        ],
+        [
+          "1",
+          "Chi phí đăng tải thông báo mời thầu",
+          "",
+          "Theo hóa đơn"
+        ],
+        [
+          "2",
+          "Chi phí cho các cán bộ có phát sinh công việc liên quan trong quả trình lựa chọn nhà thầu, chi photo in ấn hồ sơ, nước uống....",
+          "",
+          "Theo thực tế"
+        ]
+      ]
+    },
+    {
+      "id": "table_7eb12407",
+      "Name": "Table_57",
+      "Reference": [
+        [
+          "STT",
+          "Chức danh tham gia Hội đồng Trường",
+          "Định mức chi/tháng (đồng)"
+        ],
+        [
+          "1",
+          "Thư ký Hội đồng trường",
+          "1.500.000"
+        ],
+        [
+          "2",
+          "Thành viên Hội đồng trường",
+          "1.000.000"
+        ]
+      ]
+    },
+    {
+      "id": "table_d5e43347",
+      "Name": "Table_58",
+      "Reference": [
+        [
+          "STT",
+          "Chức trách",
+          "Đơn vị tính",
+          "Định mức (đồng)"
+        ],
+        [
+          "1",
+          "Thù lao thẩm định hồ sơ ứng viên GS",
+          "người/bộ",
+          "1.500.000"
+        ],
+        [
+          "2",
+          "Thù lao thẩm định hồ sơ ứng viên PGS",
+          "người/bộ",
+          "1.000.000"
+        ],
+        [
+          "3",
+          "Chủ tịch",
+          "người/buổi",
+          "800.000"
+        ],
+        [
+          "4",
+          "Ủy viên thư ký",
+          "người/buổi",
+          "600.000"
+        ],
+        [
+          "5",
+          "Ủy viên",
+          "người/buổi",
+          "500.000"
+        ],
+        [
+          "6",
+          "Bộ phận giúp việc",
+          "người/hồ sơ",
+          "200.000"
+        ]
+      ]
+    },
+    {
+      "id": "table_dd1fe331",
+      "Name": "Table_59",
+      "Reference": [
+        [
+          "",
+          "Chức trách/ công việc tham gia",
+          "Đơn vị tính",
+          "Định mức (đồng)"
+        ],
+        [
+          "1",
+          "Thù lao ra đề thi",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Tin học",
+          "Đề thi",
+          "1.000.000"
+        ],
+        [
+          "",
+          "Các môn thi khác",
+          "Đề thi",
+          "500.000"
+        ],
+        [
+          "2",
+          "Thù lao coi thi",
+          "Người/ buổi",
+          "200.000"
+        ],
+        [
+          "3",
+          "Thù lao chấm thi",
+          "Bài thi",
+          "50.000"
+        ],
+        [
+          "4",
+          "Thù lao hỏi thi vấn đáp",
+          "Người/ buổi",
+          "200.000"
+        ]
+      ]
+    },
+    {
+      "id": "table_2bf7d188",
+      "Name": "Table_60",
+      "Reference": [
+        [
+          "CHỦ TỊCH CÔNG ĐOÀN\n\n\n\n\nBÙI NGỌC THĂNG",
+          "HIỆU TRƯỞNG\n\n\n\n\nCHỬ ĐỨC TRÌNH"
+        ]
+      ]
+    },
+    {
+      "id": "table_3ada9e0b",
+      "Name": "Table_61",
+      "Reference": [
+        [
+          "ĐẠI HỌC QUỐC GIA HÀ NỘI\nTRƯỜNG ĐẠI HỌC CÔNG NGHỆ",
+          "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc"
+        ]
+      ]
+    },
+    {
+      "id": "table_317386e8",
+      "Name": "Table_62",
+      "Reference": [
+        [
+          "STT",
+          "Nội dung chi",
+          "Đối tượng 1",
+          "Đối tượng 2",
+          "Đối tượng 3"
+        ],
+        [
+          "1",
+          "Tết dương lịch (CBVC, LĐHĐ đang làm việc thực tế tại thời điểm tết dương lịch)",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "CBVC, LĐHĐ có thời gian làm việc thực tế từ đủ 6 tháng trở lên",
+          "1.500.000 đồng/ người",
+          "800.000 đồng/người",
+          "500.000 đồng/người"
+        ],
+        [
+          "",
+          "CBVC, LĐHĐ có thời gian làm việc thực tế dưới 6 tháng",
+          "800.000 đồng/ người",
+          "500.000 đồng/người",
+          ""
+        ],
+        [
+          "2",
+          "Tết âm lịch (Được hưởng theo thời gian làm việc thực tế từ ngày 1/2 năm trước đến 31/1 năm sau)",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "CBVC, LĐHĐ có thời gian làm việc tại Trường trên 6 tháng",
+          "3.000.000đồng/ người",
+          "2.000.000 đồng/người",
+          "1.000.000 đồng/người"
+        ],
+        [
+          "",
+          "CBVC, LĐHĐ có thời gian làm việc thực tế dưới 6 tháng",
+          "2.000.000 đồng/người",
+          "1.200.000 đồng/người",
+          "500.000 đồng/người"
+        ],
+        [
+          "",
+          "LĐHĐ có xác định thời hạn có đóng BHXH dưới 1 năm",
+          "2.000.000 đồng/người",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Cán bộ nghỉ hưu, cán bộ biệt phái",
+          "500.000 đồng/ người",
+          "",
+          ""
+        ],
+        [
+          "3",
+          "Kỷ niệm ngày 8/3 và 20/10",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Quà tặng chị em phụ nữ",
+          "500.000 đồng/ người",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Tổ chức Lễ chúc mừng của Công đoàn Trường",
+          "Theo dự toán được duyệt",
+          "",
+          ""
+        ],
+        [
+          "4",
+          "Chi quà ngày Lễ giỗ tổ Hùng Vương",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "CBVC, LĐHĐ làm việc tại trường",
+          "600.000 đồng/ người",
+          "450.000 đồng/người",
+          "300.000 đồng/người"
+        ],
+        [
+          "5",
+          "Quà kỷ niệm 30/4 và 1/5 (Được hưởng theo thời gian làm việc thực tế từ 1/5 năm trước đến 30/4 năm sau)",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "CBVC, LĐHĐ",
+          "600.000 đồng/ người",
+          "450.000 đồng/người",
+          "300.000 đồng/người"
+        ],
+        [
+          "",
+          "LĐHĐ có xác định thời hạn có đóng BHXH dưới 1 năm",
+          "300.000 đồng/ người",
+          "",
+          ""
+        ],
+        [
+          "6",
+          "Kỷ niệm ngày thành lập trường (25/5)",
+          "600.000 đồng/ người",
+          "450.000 đồng/người",
+          "300.000 đồng/người"
+        ],
+        [
+          "7",
+          "Quà ngày 1/6 cho các cháu thiếu nhi",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Quà tặng cho các cháu thiếu nhi (dưới 15 tuổi hoặc đang học THCS trở xuống) là con CBVC, LĐHĐ có đóng BHXH",
+          "200.000đồng/ cháu",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Tổ chức Lễ kỷ niệm của Công đoàn Trường",
+          "Theo dự toán được duyệt",
+          "",
+          ""
+        ],
+        [
+          "8",
+          "Tổ chức nghỉ hè (CBVC có thời gian làm việc thực tế trong năm, tính từ ngày 01/5 năm trước đến ngày 30/4 năm sau)",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "a/ Bồi dưỡng nghỉ hè",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "CBVC, LĐHĐ có thời gian làm việc thực tế đủ 6 tháng trở lên",
+          "2.000.000 đồng/ người",
+          "1.200.000 đồng/người",
+          "1.000.000 đồng/người"
+        ],
+        [
+          "",
+          "CBVC, LĐHĐ có thời gian làm việc thực tế dưới 6 tháng",
+          "500.000 đồng/ người",
+          "",
+          ""
+        ],
+        [
+          "",
+          "b/ Hỗ trợ CBVC tham gia nghỉ hè (đối với CĐV tham gia kỳ nghỉ do Công đoàn Trường tổ chức)",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "CBVC, LĐHĐ làm việc thực tế tại Trường",
+          "2.000.000 đồng/ người",
+          "1.200.000 đồng/người",
+          "1.000.000 đồng/người"
+        ],
+        [
+          "9",
+          "Tổ chức Tết trung thu",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Quà tặng cho các cháu thiếu nhi (dưới 15 tuổi hoặc đang học THCS trở xuống) là con CCVC, LĐHĐ có đóng BHXH",
+          "200.000 đồng/ cháu",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Tổ chức Tết trung thu của Công đoàn Trường",
+          "Theo dự toán được duyệt",
+          "",
+          ""
+        ],
+        [
+          "10",
+          "Quà nhân ngày Quốc khánh 2/9 (CBVC, LĐHĐ làm việc thực tế tại thời điểm 02/9)",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "CBVC, LĐHĐ",
+          "600.000 đồng/ người",
+          "450.000 đồng/người",
+          "300.000 đồng/người"
+        ],
+        [
+          "11",
+          "Kỷ niệm ngày truyền thống (18/10) (CBVC, LĐHĐ làm việc thực tế tại thời điểm 02/9)",
+          "600.000 đồng/ người",
+          "450.000 đồng/người",
+          "300.000 đồng/người"
+        ],
+        [
+          "12",
+          "Tổ chức kỷ niệm ngày Nhà giáo Việt nam 20/11",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Quà tặng cho tất cả CBVC, LĐHĐ",
+          "2.000.000 đồng/ người",
+          "1.000.000 đồng/người",
+          "500.000 đồng/người"
+        ],
+        [
+          "",
+          "Cựu giáo chức",
+          "500.000 đồng/ người",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Chi tổ chức gặp mặt",
+          "Theo dự toán được duyệt",
+          "",
+          ""
+        ],
+        [
+          "13",
+          "Chi khuyến khích các cháu là con CBVC, LĐHĐ có đóng BHXH có thành tích trong học tập",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Học sinh xuất sắc",
+          "300.000 đồng/cháu/năm",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Học sinh giỏi/Học sinh tiêu biểu",
+          "200.000 đồng/cháu/năm",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Học sinh đạt giải kỳ thi cấp quận",
+          "500.000 đồng/cháu/giải",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Học sinh giỏi cấp thành phố/ Học sinh đạt giải Olympic cấp thành phố",
+          "1.000.000 đồng/cháu/giải",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Học sinh đạt giải Học sinh giỏi cấp ĐHQGHN/ Đạt giải Olympic cấp ĐHQGHN",
+          "1.500.000 đồng/cháu/giải.",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Học sinh giỏi cấp quốc gia",
+          "2.000.000 đồng/cháu/giải",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Học sinh đạt giải Olympic quốc gia, đạt giải quốc tế:",
+          "3.000.000 đồng/cháu/giải.",
+          "",
+          ""
+        ],
+        [
+          "14",
+          "Ăn trưa hàng tháng cho tất cả CBVC, LĐHĐ",
+          "730.000 đồng/ người",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Hỗ trợ bếp ăn, dụng cụ",
+          "14.000.000 đồng/tháng",
+          "",
+          ""
+        ],
+        [
+          "15",
+          "Thăm hỏi hiếu hỷ",
+          "",
+          "",
+          ""
+        ],
+        [
+          "15.1",
+          "Thăm cán bộ ốm đau, phải nằm viện",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "CBVC, LĐHĐ đang làm việc tại Trường",
+          "1.000.000 đồng/ người",
+          "500.000 đồng/người",
+          "300.000 đồng/ người"
+        ],
+        [
+          "",
+          "Cán bộ nghỉ hưu",
+          "1.000.000 đồng /người",
+          "",
+          ""
+        ],
+        [
+          "15.2",
+          "Viếng đám tang",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "CBVC, LĐHĐ đang làm việc (tiền phúng điếu)",
+          "5.000.000 đồng/người",
+          "1.000.000 đồng/người",
+          "1.000.000 đồng/người"
+        ],
+        [
+          "",
+          "Cán bộ đã nghỉ hưu (tiền phúng điếu)",
+          "5.000.000 đồng/người",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Vòng hoa (thanh toán theo mức khoán)",
+          "1.000.000 đồng/đám",
+          "500.000 đồng/đám",
+          "500.000 đồng/đám"
+        ],
+        [
+          "15.3",
+          "Mừng đám cưới CBVC, LĐHĐ",
+          "2.000.000 đồng/ người",
+          "500.000 đồng/ người",
+          "500.000 đồng/người"
+        ],
+        [
+          "15.4",
+          "Mừng công đoàn viên sinh con",
+          "1.000.000 đồng/ người",
+          "500.000 đồng/người",
+          ""
+        ],
+        [
+          "16",
+          "Thăm hỏi tứ thân phụ mẫu, vợ, chồng, con ruột của CBVC, LĐHĐ ốm nằm viện (chi từ KPCĐ, trường hợp KPCĐ không đủ chi, Quỹ phúc lợi hỗ trợ)",
+          "500.000 đồng/người",
+          "300.000 đồng/ngườii",
+          ""
+        ],
+        [
+          "17",
+          "Viếng tứ thân phụ mẫu, vợ, chồng, con ruột CBVC, LĐHĐ (chi từ KPCĐ, trường hợp KPCĐ không đủ chi, Quỹ phúc lợi hỗ trợ)",
+          "1.000.000 đồng/người",
+          "500.000 đồng/ ngườii",
+          "300.000 đồng/ ngườii"
+        ]
+      ]
+    }
+  ],
+  "Relationships": [
+    {
+      "from": "doc_cf0f0a05",
+      "to": "chapter_d004a1c6",
+      "type": "HAS_CHAPTER"
+    },
+    {
+      "from": "doc_cf0f0a05",
+      "to": "chapter_0e91f49d",
+      "type": "HAS_CHAPTER"
+    },
+    {
+      "from": "doc_cf0f0a05",
+      "to": "chapter_adbbd53a",
+      "type": "HAS_CHAPTER"
+    },
+    {
+      "from": "chapter_adbbd53a",
+      "to": "section_d020fdca",
+      "type": "HAS_SECTION"
+    },
+    {
+      "from": "section_d020fdca",
+      "to": "article_4f31a0fa",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_d020fdca",
+      "to": "article_c88a4954",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_d020fdca",
+      "to": "article_3dac335b",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_d020fdca",
+      "to": "article_240633d7",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_d020fdca",
+      "to": "article_f3ca9cfb",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "chapter_adbbd53a",
+      "to": "section_9159b57a",
+      "type": "HAS_SECTION"
+    },
+    {
+      "from": "section_9159b57a",
+      "to": "article_1a36158e",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_9159b57a",
+      "to": "article_7ba98392",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_9159b57a",
+      "to": "article_6cf05dff",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_9159b57a",
+      "to": "article_c7441e48",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_9159b57a",
+      "to": "article_2de74624",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_9159b57a",
+      "to": "article_0ae38674",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_9159b57a",
+      "to": "article_4c6e18df",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_9159b57a",
+      "to": "article_21c5e2ca",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_9159b57a",
+      "to": "article_df3f987a",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "chapter_adbbd53a",
+      "to": "section_26216c7d",
+      "type": "HAS_SECTION"
+    },
+    {
+      "from": "section_26216c7d",
+      "to": "article_c1c69653",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_26216c7d",
+      "to": "article_5a0de03e",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_26216c7d",
+      "to": "article_df9facda",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_26216c7d",
+      "to": "article_83b7157b",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_26216c7d",
+      "to": "article_af64ed13",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_26216c7d",
+      "to": "article_428a5e7d",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_26216c7d",
+      "to": "article_4d633ad8",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_26216c7d",
+      "to": "article_c838b3ae",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_26216c7d",
+      "to": "article_a7f7a283",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_26216c7d",
+      "to": "article_12f00b4c",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_26216c7d",
+      "to": "article_2417e9bf",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_26216c7d",
+      "to": "article_3e07cbae",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_26216c7d",
+      "to": "article_9f4facc7",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_26216c7d",
+      "to": "article_fdcb0818",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_26216c7d",
+      "to": "article_2b1988bf",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_26216c7d",
+      "to": "article_7d29709e",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "chapter_adbbd53a",
+      "to": "section_26d9c8d7",
+      "type": "HAS_SECTION"
+    },
+    {
+      "from": "section_26d9c8d7",
+      "to": "article_dbe97737",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_26d9c8d7",
+      "to": "article_75d365f9",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_26d9c8d7",
+      "to": "article_e641d3f6",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_26d9c8d7",
+      "to": "article_1ad7f2f1",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_26d9c8d7",
+      "to": "article_187eec4d",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_26d9c8d7",
+      "to": "article_8c149a1f",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_26d9c8d7",
+      "to": "article_f2064354",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_26d9c8d7",
+      "to": "article_c0019394",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_26d9c8d7",
+      "to": "article_548e0aa8",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "chapter_adbbd53a",
+      "to": "section_58302d92",
+      "type": "HAS_SECTION"
+    },
+    {
+      "from": "section_58302d92",
+      "to": "article_3f08e7dc",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_58302d92",
+      "to": "article_da0fca7d",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_58302d92",
+      "to": "article_a3b21599",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_58302d92",
+      "to": "article_f88d5775",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_58302d92",
+      "to": "article_0b844047",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "chapter_adbbd53a",
+      "to": "section_4ede8292",
+      "type": "HAS_SECTION"
+    },
+    {
+      "from": "section_4ede8292",
+      "to": "article_8fcdc336",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_4ede8292",
+      "to": "article_6fe36663",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_4ede8292",
+      "to": "article_3495e1ee",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_4ede8292",
+      "to": "article_1088a3dd",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "section_4ede8292",
+      "to": "article_a5020e52",
+      "type": "HAS_ARTICLE"
+    },
+    {
+      "from": "doc_cf0f0a05",
+      "to": "chapter_75a91de6",
+      "type": "HAS_CHAPTER"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_d76c91bc",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_baa014ff",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_041f2599",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_a5311c96",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_be2c899b",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_dca72378",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_fe2c5428",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_feee4d71",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_3eab5e15",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_21d62de2",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_45e50a42",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_4936834c",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_4d9c5934",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_21ed045c",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_bb7b6472",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_a31d9139",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_34ed571b",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_62da4661",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_7e2799c0",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_a9dad070",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_95e150f2",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_d6f83f3e",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_3a00614f",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_5af29ef2",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_dd5e9fdc",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_dd8169e0",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_abe69f59",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_e276ec2e",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_d653aae6",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_099b5c74",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_86ed2b66",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_890e2b15",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_0d072577",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_88d5bb01",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_6978256a",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_3e28864d",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_27a521e3",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_a461bcfc",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_087c13af",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_ddbcec07",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_e52dbaae",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_38c506ec",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_205a6505",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_67e764c2",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_5f22b8f5",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_3ece8d2e",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_789e457c",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_f9651bce",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_eb649c08",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_2199bef8",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_101228d9",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_cf0c34b0",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_b6e47eef",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_2e79aaaf",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_5684610d",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_03e0966b",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_7eb12407",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_d5e43347",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_dd1fe331",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_2bf7d188",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_3ada9e0b",
+      "type": "HAS_TABLE"
+    },
+    {
+      "from": "article_ce283536",
+      "to": "table_317386e8",
+      "type": "HAS_TABLE"
+    }
+  ]
+}
